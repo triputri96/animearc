@@ -7,7 +7,7 @@
   <link rel="stylesheet" href="assets/css/main.css">
   <title>Document</title>
 </head>
-
+<!-- TODO: bikin header muncul pas scroll up saja deh -->
 <body>
   <header>
     <nav id="navbar" class="d-flex w-100 ">
@@ -16,7 +16,7 @@
         <img src="assets/imgs/anime-arcadia-logo.png" alt="Anime Arcadia Logo" width="160">
       </div>
       <ul class="d-flex justify-content-center col-4 align-center">
-        <li class="col-4 "><a href="">Home</a></li>
+        <li class="col-4 "><a href="/anime-arcadia">Home</a></li>
         <li class="col-4">
           <div id="menuDropdown" class="">
             <!-- TODO: ketika close dropdown efeknya nggak muncul -->
