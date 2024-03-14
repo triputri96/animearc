@@ -1,3 +1,7 @@
+<?php
+// TODO: bikin autoload lah, biar start sessionnya bisa langsung dijalannin
+  include 'services/cek-login.php';
+?>
 <header>
   <nav id="navbar" class="d-flex w-100 ">
     <!-- TODO: tambahkan efek ketika hover -->
@@ -25,7 +29,13 @@
     </ul>
     <div class="col-4 d-flex justify-content-end align-center">
       <div>
+        <?php if(!isset($_SESSION['username'])) {?>
         <a href="login.php" class="btn login-btn">Log In</a>
+        <?php } else {?>
+          <form action="services/logout.php" method="post">
+            <button type="submit" class="btn logout">Log Out</button>
+          </form>
+        <?php }?>
       </div>
     </div>
   </nav>

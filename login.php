@@ -6,8 +6,8 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link rel="stylesheet" type="text/css" href="fonts/font-awesome-4.7.0/css/font-awesome.min.css" />
-  <link rel="stylesheet" type="text/css" href="css/util.css" />
   <link rel="stylesheet" type="text/css" href="assets/css/main-login.css" />
+  <link rel="stylesheet" href="assets/css/main.css">
 </head>
 <style>
 /* Add styles for the error container */
@@ -29,9 +29,15 @@
   z-index: 1;
   /* Ensure it's below the error container */
 }
-</style>
 
+</style>
 <body>
+  <?php
+    include 'services/cek-login.php';
+      if(isset($_SESSION['username'])){
+        header('Location: ../index.php');
+      }
+  ?>
   <div class="limiter">
     <div class="container-login100">
       <div class="wrap-login100">
@@ -41,12 +47,13 @@
             data-tilt-max="15" data-tilt-startX="0" data-tilt-startY="0" />
         </div>
 
-        <form class="login100-form validate-form" action="service/cek-login.php" method="post">
+        <form class="login100-form validate-form" action="services/cek-login.php" method="post">
           <div class="error-container">
             <?php
                         if (isset($_GET['pesan'])) {
                         ?>
             <div class="alert alert-warning alert-dismissible fade show" role="alert">
+              <strong>Login Gagal </strong><?php echo $_GET['pesan']; ?>
               <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
               </button>
             </div>
@@ -69,14 +76,13 @@
               <i class="fa fa-lock" aria-hidden="true"></i>
             </span>
           </div>
-
-          <div class="container-login100-form-btn" style="justify-content: space-between">
-            <button type="submit" name="btnLogin" class="login100-form-btn" onclick="handleFailedLogin()">Login</button>
-            <button type="submit" name="btnBatal" class="login100-form-btn">Batal</button>
+          <div class="container-login100-form-btn mb-2" style="justify-content: space-between">
+            <button type="submit" name="btnLogin" onclick="handleFailedLogin()" class="login100-form-btn <?php if(isset($_SESSION['failed_login']) && $_SESSION['failed_login'] % 3 == 0){echo 'disabled';}?>">Login</button>
+            <button type="submit" name="btnBatal" class="login100-form-btn <?php if(isset($_SESSION['failed_login']) && $_SESSION['failed_login'] % 3 == 0){echo 'disabled';}?>">Batal</button>
           </div>
-          <div class="text-center p-t-40">
+          <div id="expiredContent" class="text-center <?php echo isset($_SESSION['failed_login']) && $_SESSION['failed_login'] % 3 == 0 ? 'd-block' : 'd-none'; ?>">
             <p class="txt2">
-              Login Kembali setelah 10 detik
+              Login kembali setelah <span id="expiredText">10</span> detik
             </p>
           </div>
         </form>

@@ -154,6 +154,11 @@ input {
   padding: 12px 26px;
 }
 
+.logout {
+  background-color: transparent;
+  color: var(--secondary-color);
+}
+
 /* image */
 .fit-cover {
   object-fit: cover;
@@ -211,7 +216,7 @@ input {
 }
 
 .col-5 {
-  flex 0 0 41.66%;
+  flex: 0 0 41.66%;
 }
 
 .col-6 {
