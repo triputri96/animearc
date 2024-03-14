@@ -8,13 +8,6 @@
   --madimi-one: "Madimi One", sans-serif;
   --rubik: "Rubik", sans-serif;
 }
-/* 
-.rubik-300 {
-  font-family: var(--rubik);
-  font-optical-sizing: auto;
-  font-weight: 300;
-  font-style: normal;
-} */
 
 * {
   box-sizing: border-box;
@@ -43,6 +36,7 @@ nav {
   background-color: var(--primary-color);
   padding: 16px 100px;
   position: fixed;
+  z-index: 9;
 }
 
 /* dropdown */
@@ -66,6 +60,10 @@ nav {
 /* position */
 .absolute {
   position: absolute;
+}
+
+.fixed {
+  position: fixed;
 }
 
 /* text */
