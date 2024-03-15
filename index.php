@@ -6,7 +6,7 @@
   <?php
     include 'partials/navbar.php';
   ?>
-  <section id="heroSection" class="h-v-full d-flex align-center mb-5">
+  <section id="heroSection" class="h-v-full d-flex align-center <?php if(isset($_SESSION['username'])){ echo 'mb-5'; } ?>">
     <div class="d-flex">
       <div class="col-6 d-flex align-center">
         <div>
@@ -22,7 +22,7 @@
               dan
               Frieren harus menyaksikan teman-temannya perlahan meninggal satu per satu.</p>
           </div>
-          <button class="btn hero-btn">Read More</button>
+          <a href="<?php if(!isset($_SESSION['username'])){ echo 'login.php'; } else { echo '#charaSection'; } ?>" class="btn hero-btn">Read More</a>
         </div>
       </div>
       <div class="col-6 d-flex justify-content-center">
@@ -30,7 +30,8 @@
       </div>
     </div>
   </section>
-  <section class="ptb-4 mb-5">
+
+  <section id="charaSection" <?php if(!isset($_SESSION['username'])){ echo 'hidden'; } ?> class="ptb-4 mb-5">
     <h2 class="mb-1">Main Character</h2>
     <div class="d-flex mb-1">
       <div id="charaImg" class="col-4">
@@ -110,7 +111,7 @@
     </div>
   </section>
 
-  <section id="videoTrailer" class="ptb-4 mb-5 d-flex justify-content-center">
+  <section <?php if(!isset($_SESSION['username'])){ echo 'hidden'; } ?> id="videoTrailer" class="ptb-4 mb-5 <?php if(isset($_SESSION['username'])){ echo 'd-flex'; } ?> justify-content-center">
     <video src="assets/videos/frieren-trailer.mp4" type="video/mp4" controls autoplay muted loop class="w-90"></video>
   </section>
   <?php

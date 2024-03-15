@@ -18,9 +18,9 @@ if (isset($_POST['btnLogin'])) {
 			header('Location: ../index.php');
     } else {
 			$_SESSION['failed_login']++;
-			if ($username !== $dummyUsername && $password) {
+			if ($username !== $dummyUsername) {
 				header('Location: ../login.php?pesan=Username Salah');
-			} elseif ($password !== $dummyPassword && $username) {
+			} elseif ($password !== $dummyPassword) {
 				header('Location: ../login.php?pesan=Password Salah');
 			} elseif (!$password && !$username) {
 				header('Location: ../login.php?pesan=Silahkan Input Data Dengan Benar!');

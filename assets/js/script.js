@@ -43,9 +43,23 @@ const img = document.createElement('img')
 const h3 = document.createElement('h3')
 const sup = document.createElement('sup')
 const p = document.createElement('p')
+const nav = document.getElementById('navbar')
+let lastScrollTop = 0
 
 window.addEventListener('load', () => {
   selectImage(0)
+})
+
+window.addEventListener('scroll', () => {
+  let currentScroll = window.scrollY || document.documentElement.scrollTop
+
+  if (currentScroll > lastScrollTop) {
+    nav.classList.add('hidden')
+  } else {
+    nav.classList.remove('hidden')
+  }
+
+  lastScrollTop = currentScroll
 })
 
 function dropMenu() {
