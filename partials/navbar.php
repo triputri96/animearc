@@ -21,7 +21,7 @@
             <!-- TODO: tambahkan smooth scroll -->
             <li class="mb-2"><a href="#videoTrailer">Video Multimedia</a></li>
             <li class="mb-2"><a href="input-array.php">Array</a></li>
-            <li class="mb-2"><a href="">Pengakses File</a></li>
+            <li class="mb-2"><a href="pengakses-file.php">Pengakses File</a></li>
           </ul>
         </div>
       </li>

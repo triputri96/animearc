@@ -1,8 +1,7 @@
 <?php
 session_start();
-$dummyUsername = 'putri';
-$dummyPassword = '123';
-$countFailed = 0;
+$dummy_username = 'putri';
+$dummy_password = '123';
 
 if (isset($_POST['btnLogin'])) {
     $username = $_POST['username'];
@@ -12,15 +11,15 @@ if (isset($_POST['btnLogin'])) {
 			$_SESSION['failed_login'] = 0;
 		}
 
-    if ($username === $dummyUsername && $password === $dummyPassword) {
+    if ($username === $dummy_username && $password === $dummy_password) {
 			$_SESSION['failed_login'] = 0;
 			$_SESSION['username'] = $username;
 			header('Location: ../index.php');
     } else {
 			$_SESSION['failed_login']++;
-			if ($username !== $dummyUsername) {
+			if ($username !== $dummy_username) {
 				header('Location: ../login.php?pesan=Username Salah');
-			} elseif ($password !== $dummyPassword) {
+			} elseif ($password !== $dummy_password) {
 				header('Location: ../login.php?pesan=Password Salah');
 			} elseif (!$password && !$username) {
 				header('Location: ../login.php?pesan=Silahkan Input Data Dengan Benar!');

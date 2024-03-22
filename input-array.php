@@ -8,7 +8,7 @@ include 'partials/header.php';
     <!-- <form action=""> -->
     <div class="d-flex justify-content-center">
       <div>
-        <input type="text" id="content" autofocus onkeypress="onKeyDown(event)">
+        <input type="text" id="content" class="input-form" autofocus onkeypress="onKeyDown(event)">
         <button class="btn submit-btn mb-5" type="submit" onclick=insertContent()>Submit</button>
       </div>
     </div>
@@ -24,5 +24,5 @@ include 'partials/header.php';
   </div>
 </section>
 <?php
-include 'partials/footer.php';
+include 'partials/script.php';
 ?>

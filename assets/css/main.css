@@ -132,8 +132,13 @@ input {
   color: var(--primary-color);
 }
 
-#outputField {
+#outputField,
+.input-form {
   background-color: var(--secondary-color);
+  border: none;
+}
+
+#outputField {
   height: 200px;
 }
 
