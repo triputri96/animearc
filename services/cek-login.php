@@ -27,6 +27,6 @@ if (isset($_POST['btnLogin'])) {
 		}
 } elseif (isset($_POST['btnBatal'])) {
     // Redirect untuk pembatalan atau tindakan lainnya
-    header('Location: ../login.php');
+    header('Location: ../index.php');
     exit();
 }

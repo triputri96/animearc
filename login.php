@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
-
+<!-- TODO: htaccess belum jalan, kalai url contains index.php mau aku hilangin ini tulisan biar jadi / aja -->
 <head>
-  <title>Login V1</title>
+  <title>Login | Anime Arcadia</title>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link rel="stylesheet" type="text/css" href="fonts/font-awesome-4.7.0/css/font-awesome.min.css" />
@@ -78,7 +78,6 @@
           </div>
           <div class="container-login100-form-btn mb-2" style="justify-content: space-between">
             <button type="submit" name="btnLogin" onclick="handleFailedLogin()" class="login100-form-btn <?php if(isset($_SESSION['failed_login']) && $_SESSION['failed_login'] % 3 == 0){echo 'disabled';}?>">Login</button>
-            <!-- TODO: INI TOMBOL BATAL BUAT APA YAK? -->
             <button type="submit" name="btnBatal" class="login100-form-btn <?php if(isset($_SESSION['failed_login']) && $_SESSION['failed_login'] % 3 == 0){echo 'disabled';}?>">Batal</button>
           </div>
           <div id="expiredContent" class="text-center <?php echo isset($_SESSION['failed_login']) && $_SESSION['failed_login'] % 3 == 0 ? 'd-block' : 'd-none'; ?>">

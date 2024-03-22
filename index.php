@@ -115,6 +115,9 @@
     <video src="assets/videos/frieren-trailer.mp4" type="video/mp4" controls autoplay muted loop class="w-90"></video>
   </section>
   <?php
+  if(isset($_SESSION['username'])){
+    include 'partials/footer.php';
+  }
     include 'partials/script.php';
   ?>
   <script src="assets/js/home.js"></script>

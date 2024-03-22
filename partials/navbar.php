@@ -9,11 +9,11 @@
       <a href="/"><img src="assets/imgs/anime-arcadia-logo.png" alt="Anime Arcadia Logo" width="160"></a>
     </div>
     <ul class="nav-links d-flex justify-content-center col-4 align-center">
-      <li class="col-4"><a href="/anime-arcadia" class="nav-link">Home</a></li>
+      <li class="col-4"><a href="/" class="nav-link">Home</a></li>
       <li class="col-4">
         <div id="menuDropdown" class="">
           <!-- TODO: ketika close dropdown efeknya nggak muncul -->
-          <button <?php if(!isset($_SESSION['username'])) { echo 'disabled'; }?> type="button" href="" onclick="dropMenu()" class="nav-link">Menu</button>
+          <button id="dropDownBtn" <?php if(!isset($_SESSION['username'])) { echo 'disabled'; }?> type="button" href="" onclick="dropMenu()" class="nav-link">Menu</button>
         </div>
         <div id="menuList" class="absolute menu-list d-none overflow-hidden">
           <ul class="p-3">
@@ -23,7 +23,7 @@
           </ul>
         </div>
       </li>
-      <li class="col-4 "><a href="" class="nav-link">About Us</a></li>
+      <li class="col-4 "><a href="#aboutUs" class="nav-link">About Us</a></li>
     </ul>
     <div class="col-4 d-flex justify-content-end align-center">
       <div class="nav-links">
