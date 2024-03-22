@@ -5,6 +5,7 @@
 :root {
   --primary-color: #181818;
   --secondary-color: #f5f5f5;
+  --third-color: #a3a3a3;
   --madimi-one: "Madimi One", sans-serif;
   --rubik: "Rubik", sans-serif;
 }
@@ -54,6 +55,11 @@ nav.hidden {
   /* border: none;
   cursor: pointer;
   font-size: 16px; */
+}
+
+#menuDropdown > button:disabled {
+  color: var(--third-color);
+  cursor: auto;
 }
 
 #menuList {

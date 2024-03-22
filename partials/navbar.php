@@ -2,6 +2,7 @@
 // TODO: bikin autoload lah, biar start sessionnya bisa langsung dijalannin
   include 'services/cek-login.php';
 ?>
+<!-- TODO: tambahin efek biar pas muncul ada ease in apalah gitu, plus setelah beberapa detik di section bawah dari hero bikin dia dissapeared, swipe up -->
 <header>
   <nav id="navbar" class="d-flex w-100 ">
     <!-- TODO: tambahkan efek ketika hover -->
@@ -13,9 +14,10 @@
       <li class="col-4">
         <div id="menuDropdown" class="">
           <!-- TODO: ketika close dropdown efeknya nggak muncul -->
-          <button type="button" href="" onclick="dropMenu()">Menu</button>
+          <button <?php if(!isset($_SESSION['username'])) { echo 'disabled'; }?> type="button" href="" onclick="dropMenu()">Menu</button>
         </div>
         <!-- d-none -->
+        <!-- TODO: URGENT!!! ketika dropdown dibuka dan pilih video multimedia, page scroll ke bawah tapi dropdown masih tampil -->
         <div id="menuList" class="absolute menu-list d-none overflow-hidden">
           <ul class="p-3">
             <!-- TODO: tambahkan smooth scroll -->

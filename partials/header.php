@@ -7,4 +7,3 @@
   <link rel="stylesheet" href="assets/css/main.css">
   <title>Document</title>
 </head>
-<!-- TODO: bikin header muncul pas scroll up saja deh -->

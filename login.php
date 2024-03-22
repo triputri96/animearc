@@ -78,6 +78,7 @@
           </div>
           <div class="container-login100-form-btn mb-2" style="justify-content: space-between">
             <button type="submit" name="btnLogin" onclick="handleFailedLogin()" class="login100-form-btn <?php if(isset($_SESSION['failed_login']) && $_SESSION['failed_login'] % 3 == 0){echo 'disabled';}?>">Login</button>
+            <!-- TODO: INI TOMBOL BATAL BUAT APA YAK? -->
             <button type="submit" name="btnBatal" class="login100-form-btn <?php if(isset($_SESSION['failed_login']) && $_SESSION['failed_login'] % 3 == 0){echo 'disabled';}?>">Batal</button>
           </div>
           <div id="expiredContent" class="text-center <?php echo isset($_SESSION['failed_login']) && $_SESSION['failed_login'] % 3 == 0 ? 'd-block' : 'd-none'; ?>">
