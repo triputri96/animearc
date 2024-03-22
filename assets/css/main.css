@@ -111,6 +111,10 @@ h3 {
   font-style: normal;
 }
 
+.nav-links .nav-link:hover {
+  color: var(--third-color);
+}
+
 .hero-title {
   font-size: 56px;
 }
@@ -156,6 +160,10 @@ input {
 .btn {
   color: var(--primary-color);
   background-color: var(--secondary-color);
+}
+
+.btn:hover {
+  background-color: var(--third-color);
 }
 
 #menuDropdown > button,

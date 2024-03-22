@@ -84,7 +84,6 @@ function sortOutput(isAsc) {
     contents.reverse()
   }
 
-  console.log(contents, 'contents');
   for (const i in contents) {
     let span = document.createElement('span')
     span.innerText = contents[i]

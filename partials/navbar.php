@@ -5,37 +5,33 @@
 <!-- TODO: tambahin efek biar pas muncul ada ease in apalah gitu, plus setelah beberapa detik di section bawah dari hero bikin dia dissapeared, swipe up -->
 <header>
   <nav id="navbar" class="d-flex w-100 ">
-    <!-- TODO: tambahkan efek ketika hover -->
     <div class="col-4">
-      <img src="assets/imgs/anime-arcadia-logo.png" alt="Anime Arcadia Logo" width="160">
+      <a href="/"><img src="assets/imgs/anime-arcadia-logo.png" alt="Anime Arcadia Logo" width="160"></a>
     </div>
-    <ul class="d-flex justify-content-center col-4 align-center">
-      <li class="col-4 "><a href="/anime-arcadia">Home</a></li>
+    <ul class="nav-links d-flex justify-content-center col-4 align-center">
+      <li class="col-4"><a href="/anime-arcadia" class="nav-link">Home</a></li>
       <li class="col-4">
         <div id="menuDropdown" class="">
           <!-- TODO: ketika close dropdown efeknya nggak muncul -->
-          <button <?php if(!isset($_SESSION['username'])) { echo 'disabled'; }?> type="button" href="" onclick="dropMenu()">Menu</button>
+          <button <?php if(!isset($_SESSION['username'])) { echo 'disabled'; }?> type="button" href="" onclick="dropMenu()" class="nav-link">Menu</button>
         </div>
-        <!-- d-none -->
-        <!-- TODO: URGENT!!! ketika dropdown dibuka dan pilih video multimedia, page scroll ke bawah tapi dropdown masih tampil -->
         <div id="menuList" class="absolute menu-list d-none overflow-hidden">
           <ul class="p-3">
-            <!-- TODO: tambahkan smooth scroll -->
-            <li class="mb-2"><a href="#videoTrailer">Video Multimedia</a></li>
-            <li class="mb-2"><a href="input-array.php">Array</a></li>
-            <li class="mb-2"><a href="pengakses-file.php">Pengakses File</a></li>
+            <li class="mb-2"><a href="#videoTrailer" onclick="dropMenu()" class="nav-link">Video Multimedia</a></li>
+            <li class="mb-2"><a href="input-array.php" class="nav-link">Array</a></li>
+            <li class="mb-2"><a href="pengakses-file.php" class="nav-link">Pengakses File</a></li>
           </ul>
         </div>
       </li>
-      <li class="col-4 "><a href="">About Us</a></li>
+      <li class="col-4 "><a href="" class="nav-link">About Us</a></li>
     </ul>
     <div class="col-4 d-flex justify-content-end align-center">
-      <div>
+      <div class="nav-links">
         <?php if(!isset($_SESSION['username'])) {?>
         <a href="login.php" class="btn login-btn">Log In</a>
         <?php } else {?>
           <form action="services/logout.php" method="post">
-            <button type="submit" class="btn logout">Log Out</button>
+            <button type="submit" class="btn logout nav-link">Log Out</button>
           </form>
         <?php }?>
       </div>
