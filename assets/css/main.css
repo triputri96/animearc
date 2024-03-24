@@ -29,6 +29,9 @@ html {
 body {
   background-color: var(--primary-color);
 }
+.fa-instagram {
+  width: 16px;
+}
 
 #menuDropdown > button,
 .btn,
@@ -54,9 +57,10 @@ nav.hidden {
   background-color: transparent;
 }
 
-#menuDropdown > button:disabled {
-  color: var(--third-color);
-  cursor: auto;
+#menuDropdown > button:disabled,
+#aboutUsLink .disabled {
+  color: var(--third-color) !important;
+  cursor: default;
 }
 
 #menuList {
@@ -109,7 +113,8 @@ h3 {
 }
 
 .nav-links .nav-link:hover,
-#footerContact li a:hover {
+#footerContact li a:hover,
+a.logout:hover {
   color: var(--third-color);
 }
 
@@ -146,12 +151,14 @@ input {
 }
 
 #outputField,
-.input-form {
+.input-form,
+#websiteUi {
   background-color: var(--secondary-color);
   border: none;
 }
 
-#outputField {
+#outputField,
+#websiteUi {
   height: 200px;
 }
 
@@ -165,7 +172,7 @@ input {
   background-color: var(--secondary-color);
 }
 
-.btn:hover {
+a.btn:hover {
   background-color: var(--third-color);
 }
 
@@ -334,7 +341,7 @@ section {
   padding-top: 82px;
 }
 
-footer {
+footer > div.about-us-container {
   padding: 150px 100px;
 }
 

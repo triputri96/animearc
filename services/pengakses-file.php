@@ -9,7 +9,7 @@ if(isset($_POST['submit'])) {
     return;
   }
 
-  if(file_exists($target_dir)) {
+  if(file_exists($target_file)) {
     echo 'File already exists! Try to Upload another file!';
     return;
   }
@@ -27,4 +27,10 @@ if(isset($_POST['submit'])) {
   }
 }
 
-// TODO: convert web ke file belum nih:v
+if(isset($_POST['submitWeb'])) {
+  $website_link = $_POST['website-link'];
+  $html = file_get_contents($website_link);
+  $text_content = $html;
+  $file_path = dirname(__DIR__) . '/public/websites/web-content.txt';
+  file_put_contents($file_path, $text_content);
+}

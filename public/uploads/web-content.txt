@@ -1,0 +1,1433 @@
+<!DOCTYPE html>
+<html lang="id-ID">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+<meta name="publisher" content="PT. Dewaweb">
+<meta name="author" content="Aorinka Anendya">
+<meta name="norobot" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+<title>11 Contoh Desain Web Sederhana yang Menarik untuk Inspirasi</title>
+<meta name="description" content="Tingkatkan tampilan websitemu dengan contoh-contoh desain web sederhana namun menarik secara visual. Temukan inspirasinya di sini!">
+<link rel="canonical" href="https://www.dewaweb.com/blog/contoh-desain-website/">
+<meta property="og:locale" content="id_ID">
+<meta property="og:type" content="article">
+<meta property="og:title" content="11 Contoh Desain Web Sederhana yang Menarik untuk Inspirasi">
+<meta property="og:description" content="Tingkatkan tampilan websitemu dengan contoh-contoh desain web sederhana namun menarik secara visual. Temukan inspirasinya di sini!">
+<meta property="og:url" content="https://www.dewaweb.com/blog/contoh-desain-website/">
+<meta property="og:site_name" content="Blog Dewaweb">
+<meta property="article:publisher" content="https://www.facebook.com/dewaweb">
+<meta property="article:published_time" content="2023-07-16T16:37:31+00:00">
+<meta property="article:modified_time" content="2023-09-07T09:10:51+00:00">
+<meta property="og:image" content="https://www.dewaweb.com/blog/wp-content/uploads/2023/07/contoh-desain-web-sederhana.jpg">
+<meta property="og:image:width" content="942">
+<meta property="og:image:height" content="556">
+<meta property="og:image:type" content="image/jpeg">
+<meta name="author" content="Aorinka Anendya">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:creator" content="@Dewaweb">
+<meta name="twitter:site" content="@Dewaweb">
+<meta name="twitter:label1" content="Written by">
+<meta name="twitter:data1" content="Aorinka Anendya">
+<meta name="twitter:label2" content="Est. reading time">
+<meta name="twitter:data2" content="9 minutes">
+<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Article","@id":"https://www.dewaweb.com/blog/contoh-desain-website/#article","isPartOf":{"@id":"https://www.dewaweb.com/blog/contoh-desain-website/"},"author":{"name":"Aorinka Anendya","@id":"https://www.dewaweb.com/blog/#/schema/person/bbb637ca59a54146efd132a3493bdd05"},"headline":"11 Contoh Desain Web Sederhana yang Menarik untuk Inspirasi","datePublished":"2023-07-16T16:37:31+00:00","dateModified":"2023-09-07T09:10:51+00:00","mainEntityOfPage":{"@id":"https://www.dewaweb.com/blog/contoh-desain-website/"},"wordCount":1392,"commentCount":0,"publisher":{"@id":"https://www.dewaweb.com/blog/#organization"},"image":{"@id":"https://www.dewaweb.com/blog/contoh-desain-website/#primaryimage"},"thumbnailUrl":"https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/contoh-desain-web-sederhana.jpg","articleSection":["Website"],"inLanguage":"id-ID","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https://www.dewaweb.com/blog/contoh-desain-website/#respond"]}]},{"@type":"WebPage","@id":"https://www.dewaweb.com/blog/contoh-desain-website/","url":"https://www.dewaweb.com/blog/contoh-desain-website/","name":"11 Contoh Desain Web Sederhana yang Menarik untuk Inspirasi","isPartOf":{"@id":"https://www.dewaweb.com/blog/#website"},"primaryImageOfPage":{"@id":"https://www.dewaweb.com/blog/contoh-desain-website/#primaryimage"},"image":{"@id":"https://www.dewaweb.com/blog/contoh-desain-website/#primaryimage"},"thumbnailUrl":"https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/contoh-desain-web-sederhana.jpg","datePublished":"2023-07-16T16:37:31+00:00","dateModified":"2023-09-07T09:10:51+00:00","description":"Tingkatkan tampilan websitemu dengan contoh-contoh desain web sederhana namun menarik secara visual. Temukan inspirasinya di sini!","breadcrumb":{"@id":"https://www.dewaweb.com/blog/contoh-desain-website/#breadcrumb"},"inLanguage":"id-ID","potentialAction":[{"@type":"ReadAction","target":["https://www.dewaweb.com/blog/contoh-desain-website/"]}]},{"@type":"ImageObject","inLanguage":"id-ID","@id":"https://www.dewaweb.com/blog/contoh-desain-website/#primaryimage","url":"https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/contoh-desain-web-sederhana.jpg","contentUrl":"https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/contoh-desain-web-sederhana.jpg","width":942,"height":556,"caption":"contoh desain web sederhana"},{"@type":"BreadcrumbList","@id":"https://www.dewaweb.com/blog/contoh-desain-website/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Blog","item":"https://www.dewaweb.com/blog/"},{"@type":"ListItem","position":2,"name":"Website","item":"https://www.dewaweb.com/blog/website/"},{"@type":"ListItem","position":3,"name":"11 Contoh Desain Web Sederhana yang Menarik untuk Inspirasi"}]},{"@type":"WebSite","@id":"https://www.dewaweb.com/blog/#website","url":"https://www.dewaweb.com/blog/","name":"Blog Dewaweb","description":"Cloud Hosting with 100% Uptime, ISO 27001 Certified, 24/7 Ninja Support","publisher":{"@id":"https://www.dewaweb.com/blog/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.dewaweb.com/blog/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"id-ID"},{"@type":"Organization","@id":"https://www.dewaweb.com/blog/#organization","name":"Dewaweb","url":"https://www.dewaweb.com/blog/","logo":{"@type":"ImageObject","inLanguage":"id-ID","@id":"https://www.dewaweb.com/blog/#/schema/logo/image/","url":"https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2018/01/Logo-Dewaweb-Cloud-Hosting-Indonesia.png","contentUrl":"https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2018/01/Logo-Dewaweb-Cloud-Hosting-Indonesia.png","width":945,"height":369,"caption":"Dewaweb"},"image":{"@id":"https://www.dewaweb.com/blog/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/dewaweb","https://twitter.com/Dewaweb","https://www.instagram.com/dewaweb/","https://www.linkedin.com/company/dewaweb/","https://id.pinterest.com/dewaweb/","https://www.youtube.com/dewaweb"]},{"@type":"Person","@id":"https://www.dewaweb.com/blog/#/schema/person/bbb637ca59a54146efd132a3493bdd05","name":"Aorinka Anendya","image":{"@type":"ImageObject","inLanguage":"id-ID","@id":"https://www.dewaweb.com/blog/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/6448a54679d42bc3bcd38e7993b4e605?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/6448a54679d42bc3bcd38e7993b4e605?s=96&d=mm&r=g","caption":"Aorinka Anendya"},"description":"Gemar menulis tentang teknologi, bisnis, digital marketing, dan banyak topik lain. Sedang belajar untuk terus membuat tulisan berkualitas.","sameAs":["Aorinka"],"gender":"female","url":"https://www.dewaweb.com/blog/author/aorinka/"}]}</script>
+<link rel="dns-prefetch" href="//www.dewaweb.com">
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//b2296498.smushcdn.com">
+<link rel="alternate" type="application/rss+xml" title="Blog Dewaweb &raquo; Comments Feed" href="https://www.dewaweb.com/blog/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="Blog Dewaweb &raquo; 11 Contoh Desain Web Sederhana yang Menarik untuk Inspirasi Comments Feed" href="https://www.dewaweb.com/blog/contoh-desain-website/feed/">
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"wpemoji":"https:\/\/dwblog-ecdf.kxcdn.com\/wp-includes\/js\/wp-emoji.js?ver=6.4.3","twemoji":"https:\/\/dwblog-ecdf.kxcdn.com\/wp-includes\/js\/twemoji.js?ver=6.4.3"}};
+/**
+ * @output wp-includes/js/wp-emoji-loader.js
+ */
+
+/**
+ * Emoji Settings as exported in PHP via _print_emoji_detection_script().
+ * @typedef WPEmojiSettings
+ * @type {object}
+ * @property {?object} source
+ * @property {?string} source.concatemoji
+ * @property {?string} source.twemoji
+ * @property {?string} source.wpemoji
+ * @property {?boolean} DOMReady
+ * @property {?Function} readyCallback
+ */
+
+/**
+ * Support tests.
+ * @typedef SupportTests
+ * @type {object}
+ * @property {?boolean} flag
+ * @property {?boolean} emoji
+ */
+
+/**
+ * IIFE to detect emoji support and load Twemoji if needed.
+ *
+ * @param {Window} window
+ * @param {Document} document
+ * @param {WPEmojiSettings} settings
+ */
+( function wpEmojiLoader( window, document, settings ) {
+	if ( typeof Promise === 'undefined' ) {
+		return;
+	}
+
+	var sessionStorageKey = 'wpEmojiSettingsSupports';
+	var tests = [ 'flag', 'emoji' ];
+
+	/**
+	 * Checks whether the browser supports offloading to a Worker.
+	 *
+	 * @since 6.3.0
+	 *
+	 * @private
+	 *
+	 * @returns {boolean}
+	 */
+	function supportsWorkerOffloading() {
+		return (
+			typeof Worker !== 'undefined' &&
+			typeof OffscreenCanvas !== 'undefined' &&
+			typeof URL !== 'undefined' &&
+			URL.createObjectURL &&
+			typeof Blob !== 'undefined'
+		);
+	}
+
+	/**
+	 * @typedef SessionSupportTests
+	 * @type {object}
+	 * @property {number} timestamp
+	 * @property {SupportTests} supportTests
+	 */
+
+	/**
+	 * Get support tests from session.
+	 *
+	 * @since 6.3.0
+	 *
+	 * @private
+	 *
+	 * @returns {?SupportTests} Support tests, or null if not set or older than 1 week.
+	 */
+	function getSessionSupportTests() {
+		try {
+			/** @type {SessionSupportTests} */
+			var item = JSON.parse(
+				sessionStorage.getItem( sessionStorageKey )
+			);
+			if (
+				typeof item === 'object' &&
+				typeof item.timestamp === 'number' &&
+				new Date().valueOf() < item.timestamp + 604800 && // Note: Number is a week in seconds.
+				typeof item.supportTests === 'object'
+			) {
+				return item.supportTests;
+			}
+		} catch ( e ) {}
+		return null;
+	}
+
+	/**
+	 * Persist the supports in session storage.
+	 *
+	 * @since 6.3.0
+	 *
+	 * @private
+	 *
+	 * @param {SupportTests} supportTests Support tests.
+	 */
+	function setSessionSupportTests( supportTests ) {
+		try {
+			/** @type {SessionSupportTests} */
+			var item = {
+				supportTests: supportTests,
+				timestamp: new Date().valueOf()
+			};
+
+			sessionStorage.setItem(
+				sessionStorageKey,
+				JSON.stringify( item )
+			);
+		} catch ( e ) {}
+	}
+
+	/**
+	 * Checks if two sets of Emoji characters render the same visually.
+	 *
+	 * This function may be serialized to run in a Worker. Therefore, it cannot refer to variables from the containing
+	 * scope. Everything must be passed by parameters.
+	 *
+	 * @since 4.9.0
+	 *
+	 * @private
+	 *
+	 * @param {CanvasRenderingContext2D} context 2D Context.
+	 * @param {string} set1 Set of Emoji to test.
+	 * @param {string} set2 Set of Emoji to test.
+	 *
+	 * @return {boolean} True if the two sets render the same.
+	 */
+	function emojiSetsRenderIdentically( context, set1, set2 ) {
+		// Cleanup from previous test.
+		context.clearRect( 0, 0, context.canvas.width, context.canvas.height );
+		context.fillText( set1, 0, 0 );
+		var rendered1 = new Uint32Array(
+			context.getImageData(
+				0,
+				0,
+				context.canvas.width,
+				context.canvas.height
+			).data
+		);
+
+		// Cleanup from previous test.
+		context.clearRect( 0, 0, context.canvas.width, context.canvas.height );
+		context.fillText( set2, 0, 0 );
+		var rendered2 = new Uint32Array(
+			context.getImageData(
+				0,
+				0,
+				context.canvas.width,
+				context.canvas.height
+			).data
+		);
+
+		return rendered1.every( function ( rendered2Data, index ) {
+			return rendered2Data === rendered2[ index ];
+		} );
+	}
+
+	/**
+	 * Determines if the browser properly renders Emoji that Twemoji can supplement.
+	 *
+	 * This function may be serialized to run in a Worker. Therefore, it cannot refer to variables from the containing
+	 * scope. Everything must be passed by parameters.
+	 *
+	 * @since 4.2.0
+	 *
+	 * @private
+	 *
+	 * @param {CanvasRenderingContext2D} context 2D Context.
+	 * @param {string} type Whether to test for support of "flag" or "emoji".
+	 * @param {Function} emojiSetsRenderIdentically Reference to emojiSetsRenderIdentically function, needed due to minification.
+	 *
+	 * @return {boolean} True if the browser can render emoji, false if it cannot.
+	 */
+	function browserSupportsEmoji( context, type, emojiSetsRenderIdentically ) {
+		var isIdentical;
+
+		switch ( type ) {
+			case 'flag':
+				/*
+				 * Test for Transgender flag compatibility. Added in Unicode 13.
+				 *
+				 * To test for support, we try to render it, and compare the rendering to how it would look if
+				 * the browser doesn't render it correctly (white flag emoji + transgender symbol).
+				 */
+				isIdentical = emojiSetsRenderIdentically(
+					context,
+					'\uD83C\uDFF3\uFE0F\u200D\u26A7\uFE0F', // as a zero-width joiner sequence
+					'\uD83C\uDFF3\uFE0F\u200B\u26A7\uFE0F' // separated by a zero-width space
+				);
+
+				if ( isIdentical ) {
+					return false;
+				}
+
+				/*
+				 * Test for UN flag compatibility. This is the least supported of the letter locale flags,
+				 * so gives us an easy test for full support.
+				 *
+				 * To test for support, we try to render it, and compare the rendering to how it would look if
+				 * the browser doesn't render it correctly ([U] + [N]).
+				 */
+				isIdentical = emojiSetsRenderIdentically(
+					context,
+					'\uD83C\uDDFA\uD83C\uDDF3', // as the sequence of two code points
+					'\uD83C\uDDFA\u200B\uD83C\uDDF3' // as the two code points separated by a zero-width space
+				);
+
+				if ( isIdentical ) {
+					return false;
+				}
+
+				/*
+				 * Test for English flag compatibility. England is a country in the United Kingdom, it
+				 * does not have a two letter locale code but rather a five letter sub-division code.
+				 *
+				 * To test for support, we try to render it, and compare the rendering to how it would look if
+				 * the browser doesn't render it correctly (black flag emoji + [G] + [B] + [E] + [N] + [G]).
+				 */
+				isIdentical = emojiSetsRenderIdentically(
+					context,
+					// as the flag sequence
+					'\uD83C\uDFF4\uDB40\uDC67\uDB40\uDC62\uDB40\uDC65\uDB40\uDC6E\uDB40\uDC67\uDB40\uDC7F',
+					// with each code point separated by a zero-width space
+					'\uD83C\uDFF4\u200B\uDB40\uDC67\u200B\uDB40\uDC62\u200B\uDB40\uDC65\u200B\uDB40\uDC6E\u200B\uDB40\uDC67\u200B\uDB40\uDC7F'
+				);
+
+				return ! isIdentical;
+			case 'emoji':
+				/*
+				 * Why can't we be friends? Everyone can now shake hands in emoji, regardless of skin tone!
+				 *
+				 * To test for Emoji 14.0 support, try to render a new emoji: Handshake: Light Skin Tone, Dark Skin Tone.
+				 *
+				 * The Handshake: Light Skin Tone, Dark Skin Tone emoji is a ZWJ sequence combining &#129777; Rightwards Hand,
+				 * &#127995; Light Skin Tone, a Zero Width Joiner, &#129778; Leftwards Hand, and &#127999; Dark Skin Tone.
+				 *
+				 * 0x1FAF1 == Rightwards Hand
+				 * 0x1F3FB == Light Skin Tone
+				 * 0x200D == Zero-Width Joiner (ZWJ) that links the code points for the new emoji or
+				 * 0x200B == Zero-Width Space (ZWS) that is rendered for clients not supporting the new emoji.
+				 * 0x1FAF2 == Leftwards Hand
+				 * 0x1F3FF == Dark Skin Tone.
+				 *
+				 * When updating this test for future Emoji releases, ensure that individual emoji that make up the
+				 * sequence come from older emoji standards.
+				 */
+				isIdentical = emojiSetsRenderIdentically(
+					context,
+					'\uD83E\uDEF1\uD83C\uDFFB\u200D\uD83E\uDEF2\uD83C\uDFFF', // as the zero-width joiner sequence
+					'\uD83E\uDEF1\uD83C\uDFFB\u200B\uD83E\uDEF2\uD83C\uDFFF' // separated by a zero-width space
+				);
+
+				return ! isIdentical;
+		}
+
+		return false;
+	}
+
+	/**
+	 * Checks emoji support tests.
+	 *
+	 * This function may be serialized to run in a Worker. Therefore, it cannot refer to variables from the containing
+	 * scope. Everything must be passed by parameters.
+	 *
+	 * @since 6.3.0
+	 *
+	 * @private
+	 *
+	 * @param {string[]} tests Tests.
+	 * @param {Function} browserSupportsEmoji Reference to browserSupportsEmoji function, needed due to minification.
+	 * @param {Function} emojiSetsRenderIdentically Reference to emojiSetsRenderIdentically function, needed due to minification.
+	 *
+	 * @return {SupportTests} Support tests.
+	 */
+	function testEmojiSupports( tests, browserSupportsEmoji, emojiSetsRenderIdentically ) {
+		var canvas;
+		if (
+			typeof WorkerGlobalScope !== 'undefined' &&
+			self instanceof WorkerGlobalScope
+		) {
+			canvas = new OffscreenCanvas( 300, 150 ); // Dimensions are default for HTMLCanvasElement.
+		} else {
+			canvas = document.createElement( 'canvas' );
+		}
+
+		var context = canvas.getContext( '2d', { willReadFrequently: true } );
+
+		/*
+		 * Chrome on OS X added native emoji rendering in M41. Unfortunately,
+		 * it doesn't work when the font is bolder than 500 weight. So, we
+		 * check for bold rendering support to avoid invisible emoji in Chrome.
+		 */
+		context.textBaseline = 'top';
+		context.font = '600 32px Arial';
+
+		var supports = {};
+		tests.forEach( function ( test ) {
+			supports[ test ] = browserSupportsEmoji( context, test, emojiSetsRenderIdentically );
+		} );
+		return supports;
+	}
+
+	/**
+	 * Adds a script to the head of the document.
+	 *
+	 * @ignore
+	 *
+	 * @since 4.2.0
+	 *
+	 * @param {string} src The url where the script is located.
+	 *
+	 * @return {void}
+	 */
+	function addScript( src ) {
+		var script = document.createElement( 'script' );
+		script.src = src;
+		script.defer = true;
+		document.head.appendChild( script );
+	}
+
+	settings.supports = {
+		everything: true,
+		everythingExceptFlag: true
+	};
+
+	// Create a promise for DOMContentLoaded since the worker logic may finish after the event has fired.
+	var domReadyPromise = new Promise( function ( resolve ) {
+		document.addEventListener( 'DOMContentLoaded', resolve, {
+			once: true
+		} );
+	} );
+
+	// Obtain the emoji support from the browser, asynchronously when possible.
+	new Promise( function ( resolve ) {
+		var supportTests = getSessionSupportTests();
+		if ( supportTests ) {
+			resolve( supportTests );
+			return;
+		}
+
+		if ( supportsWorkerOffloading() ) {
+			try {
+				// Note that the functions are being passed as arguments due to minification.
+				var workerScript =
+					'postMessage(' +
+					testEmojiSupports.toString() +
+					'(' +
+					[
+						JSON.stringify( tests ),
+						browserSupportsEmoji.toString(),
+						emojiSetsRenderIdentically.toString()
+					].join( ',' ) +
+					'));';
+				var blob = new Blob( [ workerScript ], {
+					type: 'text/javascript'
+				} );
+				var worker = new Worker( URL.createObjectURL( blob ), { name: 'wpTestEmojiSupports' } );
+				worker.onmessage = function ( event ) {
+					supportTests = event.data;
+					setSessionSupportTests( supportTests );
+					worker.terminate();
+					resolve( supportTests );
+				};
+				return;
+			} catch ( e ) {}
+		}
+
+		supportTests = testEmojiSupports( tests, browserSupportsEmoji, emojiSetsRenderIdentically );
+		setSessionSupportTests( supportTests );
+		resolve( supportTests );
+	} )
+		// Once the browser emoji support has been obtained from the session, finalize the settings.
+		.then( function ( supportTests ) {
+			/*
+			 * Tests the browser support for flag emojis and other emojis, and adjusts the
+			 * support settings accordingly.
+			 */
+			for ( var test in supportTests ) {
+				settings.supports[ test ] = supportTests[ test ];
+
+				settings.supports.everything =
+					settings.supports.everything && settings.supports[ test ];
+
+				if ( 'flag' !== test ) {
+					settings.supports.everythingExceptFlag =
+						settings.supports.everythingExceptFlag &&
+						settings.supports[ test ];
+				}
+			}
+
+			settings.supports.everythingExceptFlag =
+				settings.supports.everythingExceptFlag &&
+				! settings.supports.flag;
+
+			// Sets DOMReady to false and assigns a ready function to settings.
+			settings.DOMReady = false;
+			settings.readyCallback = function () {
+				settings.DOMReady = true;
+			};
+		} )
+		.then( function () {
+			return domReadyPromise;
+		} )
+		.then( function () {
+			// When the browser can not render everything we need to load a polyfill.
+			if ( ! settings.supports.everything ) {
+				settings.readyCallback();
+
+				var src = settings.source || {};
+
+				if ( src.concatemoji ) {
+					addScript( src.concatemoji );
+				} else if ( src.wpemoji && src.twemoji ) {
+					addScript( src.twemoji );
+					addScript( src.wpemoji );
+				}
+			}
+		} );
+} )( window, document, window._wpemojiSettings );
+</script>
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel="stylesheet" id="prismatic-blocks-css" href="https://dwblog-ecdf.kxcdn.com/wp-content/plugins/prismatic/css/styles-blocks.css?ver=6.4.3" media="all">
+<style id="prismatic-custom-inline-css">
+div.code-toolbar {
+	overflow:hidden;
+}
+.code-toolbar pre code {
+	padding: 25px 20px 10px;
+}
+.code-toolbar pre[class*="language-"] {
+padding : 0.5em 1em;
+border-radius: 8px;
+}
+.code-toolbar pre[class*="language-"]::before {
+	content: ". . ." !important;
+	position: absolute;
+	top: 0;
+	left: 0;
+        right: 0;
+	height: 2rem;
+	--tw-bg-opacity: 1;
+	background-color: #83d5f7;
+	--tw-text-opacity: 1;
+	color: rgb(177 180 192/var(--tw-text-opacity));
+	width: auto;
+	font-size: 1.25rem;
+	line-height: 1.75rem;
+	margin: 0;
+	padding-left: 1rem;
+	padding-right: 1rem;
+	line-height: 1.625;
+	letter-spacing: -3px;
+       border-top-left-radius: 8px;
+       border-top-right-radius: 8px;
+}
+div.code-toolbar div.toolbar {
+	top: 32px !important;
+}
+</style>
+<link rel="stylesheet" id="ruki-style-css" href="https://dwblog-ecdf.kxcdn.com/wp-content/themes/ruki/style.css" media="all">
+<link rel="stylesheet" id="fontawesome4-css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" media="all">
+<link rel="stylesheet" id="ruki-child-style-css" href="https://dwblog-ecdf.kxcdn.com/wp-content/themes/ruki-child/style.css?ver=1.6" media="all">
+<link rel="stylesheet" id="fontello-css" href="https://dwblog-ecdf.kxcdn.com/wp-content/themes/ruki/css/fontello/css/fontello.css" media="all">
+<link rel="stylesheet" id="ruki-google-font-mulish-css" href="https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,600;1,700;1,800;1,900&amp;display=swap" media="all">
+<link rel="stylesheet" id="ruki-reset-css" href="https://dwblog-ecdf.kxcdn.com/wp-content/themes/ruki/css/normalize.css?ver=1.0.0" media="all">
+<link rel="stylesheet" id="ruki-gutenberg-css" href="https://dwblog-ecdf.kxcdn.com/wp-content/themes/ruki/css/gutenberg.css?ver=1.0.2" media="all">
+<link rel="stylesheet" id="lwptoc-main-css" href="https://dwblog-ecdf.kxcdn.com/wp-content/plugins/luckywp-table-of-contents/front/assets/main.min.css?ver=2.1.4" media="all">
+<link rel="stylesheet" id="searchwp-live-search-css" href="https://dwblog-ecdf.kxcdn.com/wp-content/plugins/searchwp-live-ajax-search/assets/styles/style.css?ver=1.7.6" media="all">
+<script src="https://dwblog-ecdf.kxcdn.com/wp-content/plugins/luckywp-table-of-contents/front/assets/main.min.js?ver=2.1.4" id="lwptoc-main-js"></script>
+<script src="https://dwblog-ecdf.kxcdn.com/wp-includes/js/jquery/jquery.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="https://dwblog-ecdf.kxcdn.com/wp-includes/js/jquery/jquery-migrate.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script src="https://dwblog-ecdf.kxcdn.com/wp-content/themes/ruki/js/main.js?ver=1.0.0" id="ruki-main-js"></script>
+<script src="https://dwblog-ecdf.kxcdn.com/wp-content/plugins/wp-smush-pro/app/assets/js/smush-lazy-load.min.js?ver=3.15.5" id="smush-lazy-load-js"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.dewaweb.com/blog/xmlrpc.php?rsd">
+<meta name="generator" content="WordPress 6.4.3">
+<link rel="alternate" type="application/json+oembed" href="https://www.dewaweb.com/blog/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.dewaweb.com%2Fblog%2Fcontoh-desain-website%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://www.dewaweb.com/blog/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.dewaweb.com%2Fblog%2Fcontoh-desain-website%2F&amp;format=xml">
+<script>
+			document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );
+		</script>
+<style>
+			.no-js img.lazyload { display: none; }
+			figure.wp-block-image img.lazyloading { min-width: 150px; }
+							.lazyload { opacity: 0; }
+				.lazyloading {
+					border: 0 !important;
+					opacity: 1;
+					background:  url('https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2022/01/Placeholder-image.jpg') no-repeat center !important;
+					background-size: 16px auto !important;
+					min-width: 16px;
+				}
+					</style>
+<style>
+            .mymobilebanner{
+                display: block;
+                position: relative;
+                overflow: hidden;
+                width: 100%;
+				margin: 0 0 25px;
+            }
+            .mymobilebanner a{
+                display: block;
+                width: 100%;
+                margin: 0 auto;
+            }
+            .mymobilebanner a img{
+                display: block;
+                width: 100%;
+                height: auto;
+                margin: 0 auto;
+            }
+            .mymobilebanner.mydesktopbanner{
+                display: none;
+				margin: 0 auto;
+            }
+            .mymobilebanner.mydesktopbanner a img{
+                width: max-content;
+                max-width: 100%;
+            }
+			.aside-sticky-container .widget_media_image{
+				display:none;
+			}
+            @media (min-width: 768px) {
+				.mymobilebanner{
+					display: block;
+				}
+				.mymobilebanner.mydesktopbanner{
+					display: none;
+				}
+            }
+            @media (min-width: 992px) {
+				.mymobilebanner{
+					display: none;
+				}
+				.mymobilebanner.mydesktopbanner{
+					display: block;
+				}
+				.aside-sticky-container .widget_media_image{
+					display:block;
+				}
+            }
+            @media (min-width: 1200px) {
+				.mymobilebanner{
+					display: none;
+				}
+				.mymobilebanner.mydesktopbanner{
+					display: block;
+				}
+            }
+        </style>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KTKTWJW');</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-41110157-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-41110157-1');
+</script>
+<style>.async-hide { opacity: 0 !important} </style>
+<meta name="google-site-verification" content="25hWhfwHZIMUuvul-zWOVnlC6U71eZB3smSLRd3jTL0">
+<style>.fb_iframe_widget_fluid_desktop iframe{width:100%!important;}</style>
+<style id="ruki-custom-css-vars">
+	:root {
+	--theme-color-2:#52c6df;
+--body-background:#f8fbfe;
+--link-color:#52c6df;
+--link-hover-color:#1e73be;
+--primary-nav-link-hover-color:#52c6df;
+--primary-nav-submenu-link-hover-color:#52c6df;
+--primary-nav-sidebar-submenu-link-color:#52c6df;
+--primary-nav-sidebar-submenu-sub-link-color:#52c6df;
+--primary-nav-sidebar-arrow-color:#52c6df;
+--home-featured-posts-entry-title-link-color:#4c4d4f;
+--sidebar-width:calc(377px - 227px);
+--default-border-radius:1px;
+--input-border-radius:1px;
+--button-border-radius:1px;
+--thumbnail-border-radius:1%;
+--misc-border-radius:1px;
+	}
+	</style>
+<style id="custom-background-css">
+body.custom-background { background-color: #f8fbfe; }
+</style>
+<style id="wp-custom-css">
+			#ruki-featured-posts {
+    margin-top: 1rem;
+}
+#ruki-featured-posts h2 {
+	color: #4C4D4F;
+}
+#ruki-featured-posts .entry-title a{
+	font-weight: 800;
+}
+.logo-header-menu img{
+	width: 154px;
+}
+aside .widget {
+  padding: 0px;
+	margin-top: 1em;
+}
+sib_loader {
+	size: 20%;
+}
+#dewaweb-single-banner {
+				width: calc(100% - 30px);
+				margin: auto;
+			}
+.entry-title a { 
+	font-weight: 800;
+}
+.popmake-42229 {
+	max-height: 75%;
+}
+@media (max-width: 768px)
+ .widgetimg {
+     display: none;
+ }		</style>
+</head>
+<body class="post-template-default single single-post postid-50226 single-format-standard custom-background wp-custom-logo has-sidebar has-custom-header has-author-bio has-comments">
+<div class="body-fade"></div>
+<header id="site-header" class="site-header logo-below-nav">
+<div class="mobile-header mobile-only">
+<div class="toggle toggle-menu mobile-toggle">
+<span><i class="icon-ruki-menu"></i></span><span class="screen-reader-text">Menu</span>
+</div>
+<div class="logo-wrapper"><a href="https://www.dewaweb.com/blog/" class="custom-logo-link" rel="home" title="Link Blog Dewaweb"><img alt="Blog Dewaweb" width="77" data-height="30" title="Blog Dewaweb" height="40" data-src="https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2021/05/logo-dewaweb.png" class="custom-logo lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="></a></div> <div class="toggle toggle-search mobile-toggle">
+<span><i class="icon-search"></i></span><span class="screen-reader-text">Search</span>
+</div>
+</div>
+<div class="container header-layout-wrapper">
+<div class="primary-menu-container">
+<div class="logo-header-menu"><a href="https://www.dewaweb.com/" class="custom-logo-link" rel="home" title="Link Blog Dewaweb"><img alt="Blog Dewaweb" title="Blog Dewaweb" width="100" height="40" data-src="https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2021/05/logo-dewaweb.png" class="custom-logo lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="></a></div>
+<div class="toggle toggle-menu">
+</div>
+<nav class="menu-primary-navigation-container"><ul id="primary-nav" class="primary-nav">
+<li id="menu-item-37761" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-37761"><a href="https://www.dewaweb.com/blog/" title="Blog">Blog</a></li>
+<li id="menu-item-30024" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-30024">
+<a href="https://www.dewaweb.com/blog/digital-marketing/" title="Digital Marketing">Digital Marketing</a>
+<ul class="sub-menu">
+<li id="menu-item-30057" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30057"><a href="https://www.dewaweb.com/blog/digital-marketing/seo/" title="SEO">SEO</a></li>
+<li id="menu-item-37752" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37752"><a href="https://www.dewaweb.com/blog/digital-marketing/sem/" title="Pay Per Clicks">Pay Per Clicks</a></li>
+<li id="menu-item-34352" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-34352"><a href="https://www.dewaweb.com/blog/digital-marketing/email-marketing/" title="Email Marketing">Email Marketing</a></li>
+<li id="menu-item-34355" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-34355"><a href="https://www.dewaweb.com/blog/digital-marketing/video-marketing/" title="Video Marketing">Video Marketing</a></li>
+<li id="menu-item-34351" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-34351"><a href="https://www.dewaweb.com/blog/digital-marketing/content-marketing/" title="Content Marketing">Content Marketing</a></li>
+<li id="menu-item-34354" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-34354"><a href="https://www.dewaweb.com/blog/digital-marketing/social-media-marketing/" title="Social Media Marketing">Social Media Marketing</a></li>
+<li id="menu-item-41008" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-41008"><a href="https://www.dewaweb.com/blog/digital-marketing/apps-tools/" title="Apps &amp; Tools">Apps &amp; Tools</a></li>
+</ul>
+</li>
+<li id="menu-item-37744" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-37744"><a href="https://www.dewaweb.com/blog/website/" title="Website">Website</a></li>
+<li id="menu-item-37734" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-37734">
+<a href="https://www.dewaweb.com/blog/tech-updates/" title="Tech Updates">Tech Updates</a>
+<ul class="sub-menu">
+<li id="menu-item-37735" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37735"><a href="https://www.dewaweb.com/blog/tech-updates/cloud-devops/" title="Cloud &amp; DevOps">Cloud &amp; DevOps</a></li>
+<li id="menu-item-39067" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-39067"><a href="https://www.dewaweb.com/blog/tag/dewacloud/" title="Dewacloud PaaS">Dewacloud PaaS</a></li>
+<li id="menu-item-37738" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37738"><a href="https://www.dewaweb.com/blog/tech-updates/development-tools/" title="Development Tools">Development Tools</a></li>
+<li id="menu-item-37739" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37739"><a href="https://www.dewaweb.com/blog/tech-updates/iot/" title="Internet of Things">Internet of Things</a></li>
+<li id="menu-item-37741" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37741"><a href="https://www.dewaweb.com/blog/tech-updates/mobile-app/" title="Mobile Applications">Mobile Applications</a></li>
+<li id="menu-item-37742" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37742"><a href="https://www.dewaweb.com/blog/tech-updates/servers-os/" title="Servers &amp; OS">Servers &amp; OS</a></li>
+<li id="menu-item-47268" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47268"><a href="https://www.dewaweb.com/blog/tech-updates/hosting-domain/" title="Hosting &amp; Domain">Hosting &amp; Domain</a></li>
+<li id="menu-item-37743" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37743"><a href="https://www.dewaweb.com/blog/tech-updates/web-app/" title="Web Application">Web Application</a></li>
+<li id="menu-item-37736" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37736"><a href="https://www.dewaweb.com/blog/tech-updates/containers/" title="Containers">Containers</a></li>
+<li id="menu-item-37737" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37737"><a href="https://www.dewaweb.com/blog/tech-updates/databases/" title="Databases">Databases</a></li>
+<li id="menu-item-37740" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37740"><a href="https://www.dewaweb.com/blog/tech-updates/kubernetes/" title="Kubernetes">Kubernetes</a></li>
+</ul>
+</li>
+<li id="menu-item-37753" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-37753">
+<a href="https://www.dewaweb.com/blog/security/" title="Cyber Security">Cyber Security</a>
+<ul class="sub-menu">
+<li id="menu-item-37754" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37754"><a href="https://www.dewaweb.com/blog/security/app-security/" title="Application Security">Application Security</a></li>
+<li id="menu-item-37756" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37756"><a href="https://www.dewaweb.com/blog/security/cyber-security-news/" title="Cyber Security News">Cyber Security News</a></li>
+<li id="menu-item-37758" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37758"><a href="https://www.dewaweb.com/blog/security/security-awareness/" title="Security Awareness">Security Awareness</a></li>
+<li id="menu-item-37757" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37757"><a href="https://www.dewaweb.com/blog/security/network-security/" title="Network Security">Network Security</a></li>
+<li id="menu-item-37759" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37759"><a href="https://www.dewaweb.com/blog/security/server-security/" title="Server Security">Server Security</a></li>
+<li id="menu-item-37755" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37755"><a href="https://www.dewaweb.com/blog/security/cloud-security/" title="Cloud Security">Cloud Security</a></li>
+</ul>
+</li>
+<li id="menu-item-37762" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37762"><a href="https://www.dewaweb.com/blog/updates/" title="Company Updates">Company Updates</a></li>
+<li id="menu-item-30029" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-30029">
+<a href="#" title="Services">Services</a>
+<ul class="sub-menu">
+<li id="menu-item-30030" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-30030"><a href="https://www.dewaweb.com/hosting?utm_source=blog" title="Cloud Hosting">Cloud Hosting</a></li>
+<li id="menu-item-30031" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-30031"><a href="https://www.dewaweb.com/cloud-vps?utm_source=blog" title="Cloud Server (VPS)">Cloud Server (VPS)</a></li>
+<li id="menu-item-39276" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-39276"><a href="https://www.dewacloud.com" target="_blank" rel="nofollow noopener noreferrer" title="Dewacloud PaaS">Dewacloud PaaS</a></li>
+<li id="menu-item-40082" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-40082"><a href="https://dewaguard.com/" target="_blank" rel="nofollow noopener noreferrer" title="Dewaguard Cyber Security">Dewaguard Cyber Security</a></li>
+<li id="menu-item-38969" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-38969"><a href="https://www.dewaweb.com/promo/server-cbt/?utm_source=blog&amp;utm_medium=navbar" title="Cloud Server CBT">Cloud Server CBT</a></li>
+<li id="menu-item-30032" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-30032"><a href="https://www.dewaweb.com/backup?utm_source=blog" title="Cloud Backup">Cloud Backup</a></li>
+<li id="menu-item-30033" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-30033"><a href="https://www.dewaweb.com/domain?utm_source=blog" title="Domain">Domain</a></li>
+<li id="menu-item-30034" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-30034"><a href="https://www.dewaweb.com/ssl-certificates?utm_source=blog" title="SSL Certificates">SSL Certificates</a></li>
+<li id="menu-item-30036" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-30036"><a href="https://www.dewatalks.com?utm_source=blog" title="Dewatalks">Dewatalks</a></li>
+</ul>
+</li>
+</ul></nav>
+<div class="toggle toggle-search">
+<span class="has-toggle-text"><i class="icon-search"></i>Search</span>
+</div>
+</div>
+</div>
+<style>
+			.entry-content h1, .entry-content h2 {
+				font-weight: 800;
+			}
+			.entry-content h3, .entry-content h4, .entry-content h5, .entry-content h6 {
+			font-weight: 700;
+			}
+			.entry-content h3 strong, .entry-content h4 strong, .entry-content h5 strong, .entry-content h6 strong {
+			font-weight: 700;
+			}
+			.entry-content h3 {
+				font-size: 1.5rem;
+			}
+			.entry-content h4 {
+				font-size: 1.3rem;
+			}
+		@media (max-width: 768.98px) {
+			.entry-content ol, .entry-content ul{
+				margin-left: 25px!important;
+			}
+			.entry-content ol{
+				padding:0;
+			}
+			.entry-content ol li {
+				padding-left:5px;
+			}
+			.entry-content ul li {
+				padding-left: 5px!important;
+			}
+			.the-post .single-post .entry-content:not(.custom-excerpt), .the-post .page .entry-content{
+				font-size: 1rem;
+				line-height: 1.8rem;
+			}
+			.pum-container.pum-responsive{
+				max-width:100%!important;
+			}
+			
+			form#sib_signup_form_11 input[type="text"], form#sib_signup_form_11 input[type="email"], form#sib_signup_form_11 select{
+				width: 100%!important;
+			}
+			h1.page-title, h1.entry-title,
+	        .has-sidebar h1.page-title,
+	        .has-sidebar .default h1.entry-title {
+		        font-size: 1.75rem;
+		        line-height: 1.2;
+				font-weight 800;
+			}
+			.entry-content h2 {
+				font-size: 1.5rem;
+			}
+			.entry-content h3 {
+				font-size: 1.3rem;
+			}
+			.entry-content h4 {
+				font-size: 1.15rem;
+			}
+			.entry-content h5 {
+				font-size: 1.1 rem;
+			}
+			.entry-content h6 {
+				font-size: 1.05 rem;
+			}
+			.has-sidebar .the-post .single-post .entry-content, .has-sidebar .the-post .single-post .entry-header, .has-sidebar .the-post .page .entry-content, .has-sidebar .the-post .page .entry-header {
+				max-width: calc(var(--container-max-width) - var(--sidebar-width) - 50px);
+				padding-right: 20px;
+				padding-left: 20px;
+			}
+			form#sib_signup_form_15 {
+				max-width: 100%;
+			}
+		}
+		@media (max-width: 832px) {
+			.pum-container.pum-responsive{
+				max-width:100%!important;
+			}
+			form#sib_signup_form_11 input[type="text"], form#sib_signup_form_11 input[type="email"], form#sib_signup_form_11 select{
+				width: 100%!important;
+			}
+		}
+			.sib_signup_form{
+				position:relative;
+				overflow:hidden;
+			}
+			.sib_loader{				
+				position: absolute;
+				z-index: 9;
+				bottom: 17px;
+				left: 90px;
+			}
+			.sib_loader img{
+				width:30px;
+			}
+		}
+		</style>
+</header>
+<div class="site-search">
+<span class="toggle-search"><i class="icon-cancel"></i></span>
+<form role="search" method="get" class="search-form" action="https://www.dewaweb.com/blog/">
+<label for="search-form-65fe332630840">
+<span class="screen-reader-text">Search for:</span>
+</label>
+<input type="search" id="search-form-65fe332630840" class="search-field" placeholder="Search and press Enter" value name="s" data-swplive="true" data-swpengine="default" data-swpconfig="default">
+<button type="submit" class="search-submit"><i class="icon-search"></i><span class="screen-reader-text">Search</span></button>
+</form>
+</div>
+<aside class="mobile-navigation slide-menu sidebar" aria-label="Blog Sidebar">
+<span class="close-menu"><i class="icon-cancel"></i></span>
+<nav class="primary-nav-sidebar-wrapper mobile-only"><ul id="primary-nav-sidebar" class="primary-nav-sidebar">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-37761">
+<a href="https://www.dewaweb.com/blog/" title="Blog">Blog</a><span class="expand"></span>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-30024">
+<a href="https://www.dewaweb.com/blog/digital-marketing/" title="Digital Marketing">Digital Marketing</a><span class="expand"></span>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30057">
+<a href="https://www.dewaweb.com/blog/digital-marketing/seo/" title="SEO">SEO</a><span class="expand"></span>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37752">
+<a href="https://www.dewaweb.com/blog/digital-marketing/sem/" title="Pay Per Clicks">Pay Per Clicks</a><span class="expand"></span>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-34352">
+<a href="https://www.dewaweb.com/blog/digital-marketing/email-marketing/" title="Email Marketing">Email Marketing</a><span class="expand"></span>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-34355">
+<a href="https://www.dewaweb.com/blog/digital-marketing/video-marketing/" title="Video Marketing">Video Marketing</a><span class="expand"></span>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-34351">
+<a href="https://www.dewaweb.com/blog/digital-marketing/content-marketing/" title="Content Marketing">Content Marketing</a><span class="expand"></span>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-34354">
+<a href="https://www.dewaweb.com/blog/digital-marketing/social-media-marketing/" title="Social Media Marketing">Social Media Marketing</a><span class="expand"></span>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-41008">
+<a href="https://www.dewaweb.com/blog/digital-marketing/apps-tools/" title="Apps &amp; Tools">Apps &amp; Tools</a><span class="expand"></span>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-37744">
+<a href="https://www.dewaweb.com/blog/website/" title="Website">Website</a><span class="expand"></span>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-37734">
+<a href="https://www.dewaweb.com/blog/tech-updates/" title="Tech Updates">Tech Updates</a><span class="expand"></span>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37735">
+<a href="https://www.dewaweb.com/blog/tech-updates/cloud-devops/" title="Cloud &amp; DevOps">Cloud &amp; DevOps</a><span class="expand"></span>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-39067">
+<a href="https://www.dewaweb.com/blog/tag/dewacloud/" title="Dewacloud PaaS">Dewacloud PaaS</a><span class="expand"></span>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37738">
+<a href="https://www.dewaweb.com/blog/tech-updates/development-tools/" title="Development Tools">Development Tools</a><span class="expand"></span>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37739">
+<a href="https://www.dewaweb.com/blog/tech-updates/iot/" title="Internet of Things">Internet of Things</a><span class="expand"></span>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37741">
+<a href="https://www.dewaweb.com/blog/tech-updates/mobile-app/" title="Mobile Applications">Mobile Applications</a><span class="expand"></span>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37742">
+<a href="https://www.dewaweb.com/blog/tech-updates/servers-os/" title="Servers &amp; OS">Servers &amp; OS</a><span class="expand"></span>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-47268">
+<a href="https://www.dewaweb.com/blog/tech-updates/hosting-domain/" title="Hosting &amp; Domain">Hosting &amp; Domain</a><span class="expand"></span>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37743">
+<a href="https://www.dewaweb.com/blog/tech-updates/web-app/" title="Web Application">Web Application</a><span class="expand"></span>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37736">
+<a href="https://www.dewaweb.com/blog/tech-updates/containers/" title="Containers">Containers</a><span class="expand"></span>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37737">
+<a href="https://www.dewaweb.com/blog/tech-updates/databases/" title="Databases">Databases</a><span class="expand"></span>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37740">
+<a href="https://www.dewaweb.com/blog/tech-updates/kubernetes/" title="Kubernetes">Kubernetes</a><span class="expand"></span>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-37753">
+<a href="https://www.dewaweb.com/blog/security/" title="Cyber Security">Cyber Security</a><span class="expand"></span>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37754">
+<a href="https://www.dewaweb.com/blog/security/app-security/" title="Application Security">Application Security</a><span class="expand"></span>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37756">
+<a href="https://www.dewaweb.com/blog/security/cyber-security-news/" title="Cyber Security News">Cyber Security News</a><span class="expand"></span>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37758">
+<a href="https://www.dewaweb.com/blog/security/security-awareness/" title="Security Awareness">Security Awareness</a><span class="expand"></span>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37757">
+<a href="https://www.dewaweb.com/blog/security/network-security/" title="Network Security">Network Security</a><span class="expand"></span>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37759">
+<a href="https://www.dewaweb.com/blog/security/server-security/" title="Server Security">Server Security</a><span class="expand"></span>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37755">
+<a href="https://www.dewaweb.com/blog/security/cloud-security/" title="Cloud Security">Cloud Security</a><span class="expand"></span>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37762">
+<a href="https://www.dewaweb.com/blog/updates/" title="Company Updates">Company Updates</a><span class="expand"></span>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-30029">
+<a href="#" title="Services">Services</a><span class="expand"></span>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-30030">
+<a href="https://www.dewaweb.com/hosting?utm_source=blog" title="Cloud Hosting">Cloud Hosting</a><span class="expand"></span>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-30031">
+<a href="https://www.dewaweb.com/cloud-vps?utm_source=blog" title="Cloud Server (VPS)">Cloud Server (VPS)</a><span class="expand"></span>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-39276">
+<a href="https://www.dewacloud.com" target="_blank" rel="nofollow noopener noreferrer" title="Dewacloud PaaS">Dewacloud PaaS</a><span class="expand"></span>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-40082">
+<a href="https://dewaguard.com/" target="_blank" rel="nofollow noopener noreferrer" title="Dewaguard Cyber Security">Dewaguard Cyber Security</a><span class="expand"></span>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-38969">
+<a href="https://www.dewaweb.com/promo/server-cbt/?utm_source=blog&amp;utm_medium=navbar" title="Cloud Server CBT">Cloud Server CBT</a><span class="expand"></span>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-30032">
+<a href="https://www.dewaweb.com/backup?utm_source=blog" title="Cloud Backup">Cloud Backup</a><span class="expand"></span>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-30033">
+<a href="https://www.dewaweb.com/domain?utm_source=blog" title="Domain">Domain</a><span class="expand"></span>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-30034">
+<a href="https://www.dewaweb.com/ssl-certificates?utm_source=blog" title="SSL Certificates">SSL Certificates</a><span class="expand"></span>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-30036">
+<a href="https://www.dewatalks.com?utm_source=blog" title="Dewatalks">Dewatalks</a><span class="expand"></span>
+</li>
+</ul>
+</li>
+</ul></nav>
+</aside>
+<div class="wrap">
+<main id="main" class="site-main">
+<div id="primary" class="content-area flex-grid the-post" data-thumbnail="landscape">
+<p id="breadcrumbs"><span><span><a href="https://www.dewaweb.com/blog/" title="Blog">Blog</a></span> &raquo; <span><a href="https://www.dewaweb.com/blog/website/" title="Website">Website</a></span> &raquo; <span class="breadcrumb_last" aria-current="page">11 Contoh Desain Web Sederhana yang Menarik untuk Inspirasi</span></span></p>
+<article id="post-50226" class="flex-box single-post card has-meta-after-title has-meta-read-time disabled-post-video default post-50226 post type-post status-publish format-standard has-post-thumbnail hentry category-website">
+<div class="post-thumbnail">
+<div style="display:block;width:100%;margin:0 auto;text-align:center;">
+<picture>
+<source media="(max-width: 576px)" srcset="https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/contoh-desain-web-sederhana.jpg"></source>
+<img alt="11 Contoh Desain Web Sederhana yang Menarik untuk Inspirasi" title="11 Contoh Desain Web Sederhana yang Menarik untuk Inspirasi" style="width:100%;height: auto; max-width: 100%;" width="100" height="40" data-src="https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/contoh-desain-web-sederhana.jpg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+</picture>
+</div>
+</div>
+<header class="entry-header">
+<h1 class="entry-title"><span>11 Contoh Desain Web Sederhana yang Menarik untuk Inspirasi</span></h1>
+<div class="entry-meta after-title">
+<ul>
+<li class="entry-author-meta">
+<span class="screen-reader-text">Posted by</span><i>by</i> <a href="https://www.dewaweb.com/blog/author/aorinka/" title="Aorinka Anendya">Aorinka Anendya</a>
+</li>
+<li class="entry-date">
+<time datetime="2023-07-16">
+July 16, 2023
+</time>
+</li>
+<li class="entry-read-time">
+5 minute read
+</li>
+</ul>
+</div>
+</header>
+<div class="entry-content">
+<p><span style="font-weight: 400;">Kamu ingin membangun </span><i><span style="font-weight: 400;">web </span></i><span style="font-weight: 400;">dan sedang mencari contoh desain </span><i><span style="font-weight: 400;">web </span></i><span style="font-weight: 400;">sederhana? Desain web menjadi elemen penting untuk menciptakan pengalaman pengguna yang baik. Meskipun desain </span><i><span style="font-weight: 400;">web </span></i><span style="font-weight: 400;">yang kompleks dengan animasi dan efek visual yang mengagumkan dapat menjadi pilihan yang menarik, seringkali desain <em>web</em> </span><span style="font-weight: 400;">yang <em>simple</em> tetap menjadi pilihan banyak orang.</span></p>
+<p><span style="font-weight: 400;">Jika kamu tertarik dengan desain </span><i><span style="font-weight: 400;">web </span></i><span style="font-weight: 400;">yang <em>simple</em> namun menarik, yuk simak contoh desain </span><i><span style="font-weight: 400;">web </span></i><span style="font-weight: 400;">sederhana yang bisa menjadi inspirasi kamu!</span></p>
+<p><strong>Baca Juga: <a href="https://www.dewaweb.com/blog/panduan-membuat-desain-web/" title="Panduan Membuat Desain Web">Panduan Membuat Desain Web</a></strong></p>
+<article id="post-23735" class="flex-box single-post card has-meta-after-title disabled-post-video default post-23735 post type-post status-publish format-standard has-post-thumbnail hentry category-website">
+<div class="post-thumbnail">
+<div><picture><source srcset="https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2021/04/kesalahan-desain-website.png" media="(max-width: 576px)"></source></picture></div>
+</div>
+</article>
+<div class="lwptoc lwptoc-autoWidth lwptoc-baseItems lwptoc-light lwptoc-notInherit" data-smooth-scroll="1" data-smooth-scroll-offset="22"><div class="lwptoc_i"> <div class="lwptoc_header">
+<b class="lwptoc_title">Daftar Isi</b> <span class="lwptoc_toggle">
+<a href="#" class="lwptoc_toggle_label" data-label="Buka" title="Tutup">Tutup</a>
+</span>
+</div>
+<div class="lwptoc_items lwptoc_items-visible">
+<div class="lwptoc_itemWrap">
+<div class="lwptoc_item"> <a href="#Contoh_Desain_Web_Sederhana_yang_Menarik" target="_blank" rel="nofollow noopener noreferrer" title="
+                Contoh Desain Web Sederhana yang Menarik
+    ">
+<span class="lwptoc_item_label">Contoh Desain Web Sederhana yang Menarik</span>
+</a>
+</div>
+<div class="lwptoc_item"> <a href="#1_Google" target="_blank" rel="nofollow noopener noreferrer" title="
+                1. Google
+    ">
+<span class="lwptoc_item_label">1. Google</span>
+</a>
+</div>
+<div class="lwptoc_item"> <a href="#2_Apple" target="_blank" rel="nofollow noopener noreferrer" title="
+                2. Apple
+    ">
+<span class="lwptoc_item_label">2. Apple</span>
+</a>
+</div>
+<div class="lwptoc_item"> <a href="#3_Woorank" target="_blank" rel="nofollow noopener noreferrer" title="
+                3. Woorank
+    ">
+<span class="lwptoc_item_label">3. Woorank</span>
+</a>
+</div>
+<div class="lwptoc_item"> <a href="#4_Spotify" target="_blank" rel="nofollow noopener noreferrer" title="
+                4. Spotify
+    ">
+<span class="lwptoc_item_label">4. Spotify</span>
+</a>
+</div>
+<div class="lwptoc_item"> <a href="#5_Dropbox" target="_blank" rel="nofollow noopener noreferrer" title="
+                5. Dropbox
+    ">
+<span class="lwptoc_item_label">5. Dropbox</span>
+</a>
+</div>
+<div class="lwptoc_item"> <a href="#6_Squarespace" target="_blank" rel="nofollow noopener noreferrer" title="
+                6. Squarespace
+    ">
+<span class="lwptoc_item_label">6. Squarespace</span>
+</a>
+</div>
+<div class="lwptoc_item"> <a href="#7_Pinterest" target="_blank" rel="nofollow noopener noreferrer" title="
+                7. Pinterest
+    ">
+<span class="lwptoc_item_label">7. Pinterest</span>
+</a>
+</div>
+<div class="lwptoc_item"> <a href="#8_Etsy" target="_blank" rel="nofollow noopener noreferrer" title="
+                8. Etsy
+    ">
+<span class="lwptoc_item_label">8. Etsy</span>
+</a>
+</div>
+<div class="lwptoc_item"> <a href="#9_Medium" target="_blank" rel="nofollow noopener noreferrer" title="
+                9. Medium
+    ">
+<span class="lwptoc_item_label">9. Medium</span>
+</a>
+</div>
+<div class="lwptoc_item"> <a href="#10_Github" target="_blank" rel="nofollow noopener noreferrer" title="
+                10. Github
+    ">
+<span class="lwptoc_item_label">10. Github</span>
+</a>
+</div>
+<div class="lwptoc_item"> <a href="#11_Aqua" target="_blank" rel="nofollow noopener noreferrer" title="
+                11. Aqua
+    ">
+<span class="lwptoc_item_label">11. Aqua</span>
+</a>
+</div>
+<div class="lwptoc_item"> <a href="#Tips_Membuat_Desain_Website_Sederhana_yang_Menarik" target="_blank" rel="nofollow noopener noreferrer" title="
+                Tips Membuat Desain Website Sederhana yang Menarik
+    ">
+<span class="lwptoc_item_label">Tips Membuat Desain Website Sederhana yang Menarik</span>
+</a>
+</div>
+<div class="lwptoc_item"> <a href="#1_Buat_navigasi_web_yang_intuitif_dan_mudah_diikuti" target="_blank" rel="nofollow noopener noreferrer" title="
+                1. Buat navigasi web yang intuitif dan mudah diikuti
+    ">
+<span class="lwptoc_item_label">1. Buat navigasi web yang intuitif dan mudah diikuti</span>
+</a>
+</div>
+<div class="lwptoc_item"> <a href="#2_Pilih_tata_letak_yang_jelas_dan_mudah_dipahami" target="_blank" rel="nofollow noopener noreferrer" title="
+                2. Pilih tata letak yang jelas dan mudah dipahami
+    ">
+<span class="lwptoc_item_label">2. Pilih tata letak yang jelas dan mudah dipahami</span>
+</a>
+</div>
+<div class="lwptoc_item"> <a href="#3_Gunakan_kombinasi_warna_yang_sederhana" target="_blank" rel="nofollow noopener noreferrer" title="
+                3. Gunakan kombinasi warna yang sederhana
+    ">
+<span class="lwptoc_item_label">3. Gunakan kombinasi warna yang sederhana</span>
+</a>
+</div>
+<div class="lwptoc_item"> <a href="#4_Buat_tampilan_yang_responsif_dan_mobile-friendly" target="_blank" rel="nofollow noopener noreferrer" title="
+                4. Buat tampilan yang responsif dan mobile-friendly
+    ">
+<span class="lwptoc_item_label">4. Buat tampilan yang responsif dan mobile-friendly</span>
+</a>
+</div>
+<div class="lwptoc_item"> <a href="#Yuk_Mulai_Desain_Websitemu_Sendiri" target="_blank" rel="nofollow noopener noreferrer" title="
+                Yuk Mulai Desain Websitemu Sendiri!
+    ">
+<span class="lwptoc_item_label">Yuk Mulai Desain Websitemu Sendiri!</span>
+</a>
+</div>
+</div>
+</div>
+</div></div>
+<h2><span id="Contoh_Desain_Web_Sederhana_yang_Menarik"><strong>Contoh Desain Web Sederhana yang Menarik</strong></span></h2>
+<p><span style="font-weight: 400;">Berikut ini beberapa contoh desain </span><i><span style="font-weight: 400;">web </span></i><span style="font-weight: 400;">sederhana bagi kamu yang berniat membangun </span><i><span style="font-weight: 400;">website:</span></i></p>
+<h3><span id="1_Google"><strong>1. <a href="https://google.com" target="_blank" rel="nofollow noopener noreferrer" title="Google">Google</a></strong></span></h3>
+<p><img decoding="async" alt="website google" width="1903" height="955" data-srcset="https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/website-google.jpg 1903w, https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/website-google-300x151.jpg 300w, https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/website-google-1024x514.jpg 1024w, https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/website-google-768x385.jpg 768w, https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/website-google-1536x771.jpg 1536w, https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/website-google-1250x627.jpg 1250w" title="website google" data-src="https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/website-google.jpg" data-sizes="(max-width: 1250px) 100vw, 1250px" class="aligncenter wp-image-50237 size-full lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="></p>
+<p><span style="font-weight: 400;">Google merpakan sebuah situs </span><i><span style="font-weight: 400;">web </span></i><span style="font-weight: 400;">yang terkenal dan menjadi salah satu contoh desain </span><i><span style="font-weight: 400;">web </span></i><span style="font-weight: 400;">sederhana. Tampilan antarmuka Google yang minimalis memungkinkan pengguna untuk dengan mudah melakukan pencarian dengan cepat.&nbsp;</span></p>
+<p><span style="font-weight: 400;">Situs </span><i><span style="font-weight: 400;">web </span></i><span style="font-weight: 400;">Google juga menawarkan desain menarik sehingga mampu mendorong pengunjung untuk menjelajahi lebih lanjut. Logo yang sederhana namun ikonik menjadi </span><a href="https://www.dewaweb.com/blog/trademark-adalah/" title="trademark"><i><span style="font-weight: 400;">trademark</span></i></a><span style="font-weight: 400;"> perusahaan tersebut. Tidak ketinggalan juga fitur-fitur seperti Google Images, Google Maps, dan Google News yang turut memberikan manfaat bagi pengguna.&nbsp;</span></p>
+<p><span style="font-weight: 400;">Dengan layanan berkualitas tingg membuat Google menjadi </span><i><span style="font-weight: 400;">search engline</span></i><span style="font-weight: 400;"> paling populer di dunia dan menjadi salah satu perusahaan terbesar.&nbsp;</span></p>
+<h3><span id="2_Apple"><strong>2. <a href="http://apple.com" target="_blank" rel="nofollow noopener noreferrer" title="Apple">Apple</a></strong></span></h3>
+<p><img decoding="async" alt="contoh desain website sederhana - apple" width="1684" height="943" data-srcset="https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/contoh-desain-website-sederhana-apple.jpg 1684w, https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/contoh-desain-website-sederhana-apple-300x168.jpg 300w, https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/contoh-desain-website-sederhana-apple-1024x573.jpg 1024w, https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/contoh-desain-website-sederhana-apple-768x430.jpg 768w, https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/contoh-desain-website-sederhana-apple-1536x860.jpg 1536w, https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/contoh-desain-website-sederhana-apple-1250x700.jpg 1250w" title="contoh desain website sederhana - apple" data-src="https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/contoh-desain-website-sederhana-apple.jpg" data-sizes="(max-width: 1250px) 100vw, 1250px" class="aligncenter wp-image-50236 size-full lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="></p>
+<p><span style="font-weight: 400;">Contoh desain </span><i><span style="font-weight: 400;">web </span></i><span style="font-weight: 400;">sederhana&nbsp; yaitu dari Apple. Tampilan elegan dan simpel pada </span><i><span style="font-weight: 400;">website </span></i><span style="font-weight: 400;">ini langsung dapat memikat pengunjung ketika pertama kali mengaksesnya. Desainnya yang tidak terlalu kompleks namun tetap mampu menciptakan kesan modern dan profesional.&nbsp;</span></p>
+<div class="mymobilebanner">
+<a href="https://www.dewaweb.com/promo/ramadan?utm_source=blog-site&amp;utm_medium=banner-horizontal&amp;utm_campaign=berkahdewa" title="Promo Dewaweb" target="_blank">
+<img decoding="async" title="Promo Dewaweb" alt="Promo Dewaweb" width="100" height="40" data-src="https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2024/03/dewaweb-2024-berkahdewa-1500x300px.jpg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+</a>
+</div>
+<p><span style="font-weight: 400;">Navigasi yang intuitif dan mudah dipahami memudahkan pengguna untuk menemukan informasi yang mereka cari. Desain yang menarik dan pengalaman pengguna yang baik membuat </span><i><span style="font-weight: 400;">website </span></i><span style="font-weight: 400;">Apple menjadi tempat yang ideal untuk menjelajahi produk terbaru dari perusahaan tersebut.</span></p>
+<h3><span id="3_Woorank"><strong>3. <a href="https://www.woorank.com/en" target="_blank" rel="nofollow noopener noreferrer" title="Woorank">Woorank</a></strong></span></h3>
+<p><img decoding="async" alt="contoh desain web sederhana - woorank" width="1871" height="947" data-srcset="https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/contoh-desain-web-sederhana-woorank.jpg 1871w, https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/contoh-desain-web-sederhana-woorank-300x152.jpg 300w, https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/contoh-desain-web-sederhana-woorank-1024x518.jpg 1024w, https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/contoh-desain-web-sederhana-woorank-768x389.jpg 768w, https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/contoh-desain-web-sederhana-woorank-1536x777.jpg 1536w, https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/contoh-desain-web-sederhana-woorank-1250x633.jpg 1250w" title="contoh desain web sederhana - woorank" data-src="https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/contoh-desain-web-sederhana-woorank.jpg" data-sizes="(max-width: 1250px) 100vw, 1250px" class="aligncenter wp-image-50235 size-full lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="></p>
+<p><span style="font-weight: 400;">Woorank adalah sebuah </span><i><span style="font-weight: 400;">platform </span></i><span style="font-weight: 400;">yang membantu pengguna dalam menganalisis dan meningkatkan performa </span><i><span style="font-weight: 400;">website</span></i><span style="font-weight: 400;">. Website Woorank memiliki desain yang sederhana sehinigga memudahkan pengguna untuk mengakses fitur-fitur yang disediakan.&nbsp;</span></p>
+<p><span style="font-weight: 400;">Woorank memungkinkan pengguna melakukan audit SEO untuk mengidentifikasi masalah dan peluang yang ada dalam website mereka. Selain itu layanan ini juga memberikan rekomendasi yang jelas serta mudah diimplementasikan untuk meningkatkan peringkat dan visibilitas di mesin pencari. Keunggulan situs ini terletak pada desain yang menarik, intuitif serta kemudahan akses informasi.&nbsp;</span></p>
+<h3><span id="4_Spotify"><strong>4. <a href="https://open.spotify.com/" target="_blank" rel="nofollow noopener noreferrer" title="Spotify">Spotify</a></strong></span></h3>
+<p><img decoding="async" alt="website spotify" width="1890" height="939" data-srcset="https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/website-spotify.jpg 1890w, https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/website-spotify-300x149.jpg 300w, https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/website-spotify-1024x509.jpg 1024w, https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/website-spotify-768x382.jpg 768w, https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/website-spotify-1536x763.jpg 1536w, https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/website-spotify-1250x621.jpg 1250w" title="website spotify" data-src="https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/website-spotify.jpg" data-sizes="(max-width: 1250px) 100vw, 1250px" class="aligncenter wp-image-50234 size-full lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="></p>
+<p><span style="font-weight: 400;">Siapa yang tidak tahu layanan Spotify, platform </span><i><span style="font-weight: 400;">streaming </span></i><span style="font-weight: 400;">musik online yang sangat populer di seluruh dunia. </span><i><span style="font-weight: 400;">Website </span></i><span style="font-weight: 400;">Spotify menyediakan akses untuk mendengarkan musik favorit pengguna dari berbagai </span><i><span style="font-weight: 400;">genre </span></i><span style="font-weight: 400;">secara gratis atau melalui langganan premium.&nbsp;</span></p>
+<p><span style="font-weight: 400;">Spotify memiliki desain </span><i><span style="font-weight: 400;">web </span></i><span style="font-weight: 400;">menarik dengan tampilan sederhana yang sangat </span><a href="https://www.dewaweb.com/blog/kriteria-website-yang-baik-dan-user-friendly/" title="user friendly "><i><span style="font-weight: 400;">user friendly </span></i></a><span style="font-weight: 400;">mulai dari halaman utamanya. Selain itu konten yang terorganisir dengan baik memungkinkan pengguna dengan mudah mencari dan memilih lagu yang diinginkan.&nbsp;</span></p>
+<p><span style="font-weight: 400;">Dengan desain situs tersebut mampu meningkatkan pengalaman pengguna dan mengundang pengguna untuk terus menggunakan platform ini.&nbsp;</span></p>
+<h3><span id="5_Dropbox"><strong>5. <a href="https://www.dropbox.com/" target="_blank" rel="nofollow noopener noreferrer" title="Dropbox">Dropbox</a></strong></span></h3>
+<p><img decoding="async" alt="contoh desain web sederhana - dropbox" width="1872" height="969" data-srcset="https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/contoh-desain-web-sederhana-dropbox.jpg 1872w, https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/contoh-desain-web-sederhana-dropbox-300x155.jpg 300w, https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/contoh-desain-web-sederhana-dropbox-1024x530.jpg 1024w, https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/contoh-desain-web-sederhana-dropbox-768x398.jpg 768w, https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/contoh-desain-web-sederhana-dropbox-1536x795.jpg 1536w, https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/contoh-desain-web-sederhana-dropbox-1250x647.jpg 1250w" title="contoh desain web sederhana - dropbox" data-src="https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/contoh-desain-web-sederhana-dropbox.jpg" data-sizes="(max-width: 1250px) 100vw, 1250px" class="aligncenter wp-image-50233 size-full lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="></p>
+<p><span style="font-weight: 400;">Dropbox merupakan salah satu contoh </span><i><span style="font-weight: 400;">website </span></i><span style="font-weight: 400;">sederhana, ini merupakan sebuah layanan penyimpanan file yang sangat populer di seluruh dunia. Situs Dropbox memiliki desain yang sederhana namun efektif sehingga membuat pengguna dengan mudah mengelola file-file mereka secara nyaman.</span></p>
+<p><span style="font-weight: 400;">Desain </span><i><span style="font-weight: 400;">simple </span></i><span style="font-weight: 400;">dan intuitif pada </span><i><span style="font-weight: 400;">website </span></i><span style="font-weight: 400;">Dropbox memudahkan pengguna dalam menemukan fungsi yang mereka butuhkan. Dengan kombinasi desain sederhana dan menarik, Dropbox mampu memberikan </span><i><span style="font-weight: 400;">experience </span></i><span style="font-weight: 400;">yang baik ke pengguna, sehingga menjadikan Dropbox sebagai salah satu platform penyimpanan file yang paling populer.</span></p>
+<h3><span id="6_Squarespace"><strong>6. <a href="https://www.squarespace.com/" target="_blank" rel="nofollow noopener noreferrer" title="Squarespace">Squarespace</a></strong></span></h3>
+<p><img decoding="async" alt="website squarespace" width="1851" height="953" data-srcset="https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/website-squarespace.jpg 1851w, https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/website-squarespace-300x154.jpg 300w, https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/website-squarespace-1024x527.jpg 1024w, https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/website-squarespace-768x395.jpg 768w, https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/website-squarespace-1536x791.jpg 1536w, https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/website-squarespace-1250x644.jpg 1250w" title="website squarespace" data-src="https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/website-squarespace.jpg" data-sizes="(max-width: 1250px) 100vw, 1250px" class="aligncenter wp-image-50232 size-full lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="></p>
+<p><span style="font-weight: 400;">Squarespace adalah </span><i><span style="font-weight: 400;">platform </span></i><span style="font-weight: 400;">yang memudahkan pengguna dalam membuat dan mengelola situs </span><i><span style="font-weight: 400;">web</span></i><span style="font-weight: 400;">. </span><i><span style="font-weight: 400;">Website </span></i><span style="font-weight: 400;">Squarespace menyediakan berbagai </span><i><span style="font-weight: 400;">template </span></i><span style="font-weight: 400;">dan alat yang memungkinkan pengguna untuk membuat tampilan dan fungsionalitas situs sesuai kebutuhan.&nbsp;</span></p>
+<p><span style="font-weight: 400;">Pengguna dapat dengan mudah mengedit dan memperbarui konten tanpa perlua pemahaman </span><i><span style="font-weight: 400;">coding </span></i><span style="font-weight: 400;">yang mendalam. Dengan banyaknya pilihan </span><i><span style="font-weight: 400;">template </span></i><span style="font-weight: 400;">dan desain, pengguna dapat membuat situs </span><i><span style="font-weight: 400;">web </span></i><span style="font-weight: 400;">yang profesional yang mereka inginkan. Dukungan pelanggan yang baik juga menjadi keuntungan Squarespace, mereka siap membantu pengguna dengan pertanyaan atau masalah.</span></p>
+<h3><span id="7_Pinterest"><strong>7. <a href="https://www.pinterest.com/" target="_blank" rel="nofollow noopener noreferrer" title="Pinterest">Pinterest</a></strong></span></h3>
+<p><img decoding="async" alt="website pinterest" width="1886" height="945" data-srcset="https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/website-pinterest.jpg 1886w, https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/website-pinterest-300x150.jpg 300w, https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/website-pinterest-1024x513.jpg 1024w, https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/website-pinterest-768x385.jpg 768w, https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/website-pinterest-1536x770.jpg 1536w, https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/website-pinterest-1250x626.jpg 1250w" title="website pinterest" data-src="https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/website-pinterest.jpg" data-sizes="(max-width: 1250px) 100vw, 1250px" class="aligncenter wp-image-50231 size-full lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="></p>
+<p><span style="font-weight: 400;">Contoh desain </span><i><span style="font-weight: 400;">web </span></i><span style="font-weight: 400;">sederhana selanjutnya yaitu Pinterest yang telah dibuat sejak tahun 2010. Situs ini memiliki desain sederhana dan </span><a href="https://www.dewaweb.com/blog/kriteria-website-yang-baik-dan-user-friendly/" title="user friendly "><i><span style="font-weight: 400;">user</span></i> <i><span style="font-weight: 400;">friendly </span></i></a><span style="font-weight: 400;">baik untuk pengguna baru maupun lama.</span></p>
+<p><span style="font-weight: 400;">Pengguna dapat menjelajahi berbagai ide menarik dengan berbagai topik seperti </span><i><span style="font-weight: 400;">fashion</span></i><span style="font-weight: 400;">, </span><i><span style="font-weight: 400;">art</span></i><span style="font-weight: 400;">, perjalanan, kerajinan, dan masih banyak lagi. Situs Pinterest menampilkan desain menarik yang menggabungkan gambar dan teks dengan baik. Selain itu pengguna juga dapat membuat papan koleksi dengan berbagai gambar menarik kemudian membagikannya ke pengguna lain. Dengan fitur inovatif dan desain menarik, Pinterest menjadi platform populer bagi para pencinta kreativitas dan inspirasi di seluruh dunia.</span></p>
+<h3><span id="8_Etsy"><strong>8. &nbsp;<a href="https://www.etsy.com/" target="_blank" rel="nofollow noopener noreferrer" title="Etsy">Etsy</a></strong></span></h3>
+<p><img decoding="async" alt="website etsy" width="1879" height="960" data-srcset="https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/website-etsy.jpg 1879w, https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/website-etsy-300x153.jpg 300w, https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/website-etsy-1024x523.jpg 1024w, https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/website-etsy-768x392.jpg 768w, https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/website-etsy-1536x785.jpg 1536w, https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/website-etsy-1250x639.jpg 1250w" title="website etsy" data-src="https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/website-etsy.jpg" data-sizes="(max-width: 1250px) 100vw, 1250px" class="aligncenter wp-image-50230 size-full lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="></p>
+<p><span style="font-weight: 400;">Etsy merupakan sebuah platform </span><i><span style="font-weight: 400;">e-commerce</span></i><span style="font-weight: 400;"> yang fokus menjual produk kerajinan tangan. Dengan </span><i><span style="font-weight: 400;">layout </span></i><span style="font-weight: 400;">yang ramah pengguna, pengunjung dengan mudah dapat menemukan produk yang mereka cari. Pada website tersebut juga memudahkan penjual untuk mengunggah dan menjual produk mereka. Beberapa fitur pelengkap seperti fiitur pesan dalam </span><i><span style="font-weight: 400;">platform </span></i><span style="font-weight: 400;">memungkinkan pembeli dan penjual berkomunikasi secara langsung.</span></p>
+<p><span style="font-weight: 400;">Dalam mencari produk, pengguna dapat menjelajahi kategori dan subkategori yang ditawarkan, serta menggunakan fitur pencarian untuk menemukan produk berdasarkan </span><i><span style="font-weight: 400;">keyword. </span></i><span style="font-weight: 400;">Dengan fitur-fitur tersebut dan desain yang menarik, website Etsy menjadi tujuan populer bagi para penggemar kerajinan tangan.</span></p>
+<h3><span id="9_Medium"><strong>9. <a href="https://medium.com/" target="_blank" rel="nofollow noopener noreferrer" title="Medium">Medium</a></strong></span></h3>
+<p><img decoding="async" alt="website medium" width="1871" height="962" data-srcset="https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/website-medium.jpg 1871w, https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/website-medium-300x154.jpg 300w, https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/website-medium-1024x527.jpg 1024w, https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/website-medium-768x395.jpg 768w, https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/website-medium-1536x790.jpg 1536w, https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/website-medium-1250x643.jpg 1250w" title="website medium" data-src="https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/website-medium.jpg" data-sizes="(max-width: 1250px) 100vw, 1250px" class="aligncenter wp-image-50229 size-full lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="></p>
+<p><span style="font-weight: 400;">Medium adalah salah satu contoh desain </span><i><span style="font-weight: 400;">web </span></i><span style="font-weight: 400;">sederhana yang akan kita bahas. Medium sendiri merupakan </span><i><span style="font-weight: 400;">platform blogging</span></i><span style="font-weight: 400;"> yang dibangun oleh Evan Williams pada tahun 2012. Situs Medium memiliki desain yang sederhana, menarik, serta memudahkan pengguna untuk menulis dan berbagi cerita di sana.</span></p>
+<p><span style="font-weight: 400;">Fitur yang interaktif memungkinkan pembaca memberikan tanggapan dan berinteraksi dengan penulis. Pada </span><i><span style="font-weight: 400;">platform </span></i><span style="font-weight: 400;">ini siapa pun dapat mendaftar dan mulai menulis, bahkan berpotensi mendapatkan penghasilan dari publikasi mereka. Desain </span><i><span style="font-weight: 400;">web </span></i><span style="font-weight: 400;">yang </span><i><span style="font-weight: 400;">simple </span></i><span style="font-weight: 400;">dan tata letak yang intuitif membuat Medium menjadi pilihan populer bagi penulis dan pembaca untuk berbagai cerita dan mencari pengetahuan.</span></p>
+<h3><span id="10_Github"><b>10.</b> <a href="https://github.com/" target="_blank" rel="nofollow noopener noreferrer" title="Github"><b>Github</b></a></span></h3>
+<p><img decoding="async" alt="website github" width="1868" height="952" data-srcset="https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/website-github.jpg 1868w, https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/website-github-300x153.jpg 300w, https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/website-github-1024x522.jpg 1024w, https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/website-github-768x391.jpg 768w, https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/website-github-1536x783.jpg 1536w, https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/website-github-1250x637.jpg 1250w" title="website github" data-src="https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/website-github.jpg" data-sizes="(max-width: 1250px) 100vw, 1250px" class="aligncenter wp-image-50228 size-full lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="></p>
+<p><span style="font-weight: 400;">Github adalah sebuah website populer di kalangan para </span><i><span style="font-weight: 400;">developer </span></i><span style="font-weight: 400;">dan </span><a href="https://www.dewaweb.com/blog/programmer-adalah/" title="programmer"><i><span style="font-weight: 400;">programmer</span></i></a><span style="font-weight: 400;">. Layanan ini dibuat pada tahun 2008 dengan menyediakan </span><i><span style="font-weight: 400;">platform </span></i><span style="font-weight: 400;">bagi pengguna untuk berbagi, menyimpan, dan mengelola kode program mereka.</span></p>
+<p><span style="font-weight: 400;">Salah satu keunggulan utama dari Github adalah desain </span><i><span style="font-weight: 400;">web-</span></i><span style="font-weight: 400;">nya yang sederhana. </span><a href="https://www.dewaweb.com/blog/user-interface/" title="User interface"><i><span style="font-weight: 400;">User interface</span></i></a> <span style="font-weight: 400;">yang intuitif memudahkan pengguna untuk mengakses dan memahami berbagai fitur yang tersedia. Desain menarik pada Github memungkinkan pengguna untuk mengubah tema tampilan sesuai preferensi mereka serta menyesuaikan fitur-fitur lainnya. Dengan begitu Github menjadi tempat yang banyak dikunjungi dan digunakan oleh pengembang perangkat lunak di seluruh dunia.</span></p>
+<h3><span id="11_Aqua"><strong>11. <a href="https://www.sehataqua.co.id/" target="_blank" rel="nofollow noopener noreferrer" title="Aqua">Aqua</a></strong></span></h3>
+<p><img decoding="async" alt="contoh desain web sederhana - aqua" width="1878" height="946" data-srcset="https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/contoh-desain-web-sederhana-aqua.jpg 1878w, https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/contoh-desain-web-sederhana-aqua-300x151.jpg 300w, https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/contoh-desain-web-sederhana-aqua-1024x516.jpg 1024w, https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/contoh-desain-web-sederhana-aqua-768x387.jpg 768w, https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/contoh-desain-web-sederhana-aqua-1536x774.jpg 1536w, https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/contoh-desain-web-sederhana-aqua-1250x630.jpg 1250w" title="contoh desain web sederhana - aqua" data-src="https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2023/07/contoh-desain-web-sederhana-aqua.jpg" data-sizes="(max-width: 1250px) 100vw, 1250px" class="aligncenter wp-image-50227 size-full lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="></p>
+<p><span style="font-weight: 400;">Aqua merupakan sebuah merek yang terkenal dalam industri air minum yang diproduksi oleh perusahaan minuman PT Aqua Golden Mississippi yang berlokasi di Indonesia. Tidak hanya produknya yang terkenal di mana-mana. Aqua juga didukung dengan </span><i><span style="font-weight: 400;">website </span></i><span style="font-weight: 400;">yang memiliki tampilan sangat sederhana, dengan gambar-gambar yang dominan dan minim tulisan panjang.</span></p>
+<p><span style="font-weight: 400;">Navigasi website Aqua sangatlah baik, dengan menu yang mencakup tentang Aqua, produk Aqua, dan artikel mengenai kebaikan air, yang terletak di bagian atas halaman membuat pengguna mudah dalam menemukan informasi tentang produk tersebut. Warna yang digunakan mengikuti elemen Aqua, dengan dominasi warna biru tua dan putih yang memberikan kesan segar dan bersih.</span></p>
+<p><strong>Baca Juga: <a href="https://www.dewaweb.com/blog/kesalahan-membuat-desain-website/" title="10 Kesalahan dalam Membuat Desain Website yang Perlu Dihindari"><span class="breadcrumb_last" aria-current="page">10 Kesalahan dalam Membuat Desain Website yang Perlu Dihindari</span></a></strong></p>
+<h2><span id="Tips_Membuat_Desain_Website_Sederhana_yang_Menarik"><strong>Tips Membuat Desain Website Sederhana yang Menarik</strong></span></h2>
+<p><span style="font-weight: 400;">Itulah beberapa contoh desain </span><i><span style="font-weight: 400;">web </span></i><span style="font-weight: 400;">sederhana yang bisa jadi inspirasi kamu. <em>Nah</em>, bagi kamu yang hendak membangun </span><i><span style="font-weight: 400;">website, </span></i><span style="font-weight: 400;">kali ini Dewaweb akan memberikan tips membuat desain </span><i><span style="font-weight: 400;">website </span></i><span style="font-weight: 400;">sederhana dan menarik yang bisa kamu coba.</span></p>
+<h3><span id="1_Buat_navigasi_web_yang_intuitif_dan_mudah_diikuti"><strong>1. Buat navigasi web yang intuitif dan mudah diikuti</strong></span></h3>
+<p><span style="font-weight: 400;">Penting untuk membuat menu navigasi yang jelas dan mudah diikuti oleh pengguna. Kategorikan produk atau konten ke dalam beberapa kelompok yang terstruktur dengan baik. Jangan lupa juga tambahkan menu pencarian yang memudahkan pengguna untuk menemukan informasi yang mereka butuhkan.</span></p>
+<p><b>Baca Juga: </b><a href="https://www.dewaweb.com/blog/mengenal-struktur-navigasi-web/" title="Mengenal Struktur Navigasi Web, Jenis-Jenis, dan Tips Membuatnya"><b>Mengenal Struktur Navigasi Web, Jenis-Jenis, dan Tips Membuatnya</b></a></p>
+<h3><span id="2_Pilih_tata_letak_yang_jelas_dan_mudah_dipahami"><strong>2. Pilih tata letak yang jelas dan mudah dipahami</strong></span></h3>
+<p><span style="font-weight: 400;">Tata letak yang baik merupakan kunci untuk memastikan pengguna dapat dengan cepat memahami struktur halaman </span><i><span style="font-weight: 400;">web</span></i><span style="font-weight: 400;"> kamu. Maka dari itu pertimbangkan penempatan yang strategis untuk gambar, <a href="https://www.dewaweb.com/blog/mengenal-struktur-navigasi-web/" title="navigasi">navigasi</a>, </span><i><span style="font-weight: 400;"><a href="https://www.dewaweb.com/blog/apa-itu-pop-up/" title="pop-up">pop-up</a>, </span></i><span style="font-weight: 400;">dan <a href="https://www.dewaweb.com/blog/10-elemen-penting-desain-web/" title="elemen penting website">elemen penting <em>website</em></a> lainnya. Sebaiknya letakkan menu navigasi di bagian atas atau </span><a href="https://www.dewaweb.com/blog/contoh-header-website/" title="header"><i><span style="font-weight: 400;">header</span></i></a><i> </i><span style="font-weight: 400;">agar mudah diakses oleh pengguna.</span></p>
+<p><b>Baca Juga: </b><a href="https://www.dewaweb.com/blog/apa-itu-layout/" title="Layout: Tata Letak dalam Desain, Ini Elemen dan Contohnya"><b>Layout: Tata Letak dalam Desain, Ini Elemen dan Contohnya</b></a></p>
+<h3><span id="3_Gunakan_kombinasi_warna_yang_sederhana"><strong>3. Gunakan kombinasi warna yang sederhana</strong></span></h3>
+<p><span style="font-weight: 400;">Pilih kombinasi warna yang sederhana dan sesuai dengan identitas merek atau perusahaan kamu. Seperti salah satu contoh di atas yaitu </span><i><span style="font-weight: 400;">web </span></i><span style="font-weight: 400;">Aqua yang menggunakan dominasi warna biru tua dan putih untuk menciptakan tampilan yang segar dan bersih dan mencerminkan sebuah air mineral.</span></p>
+<h3><span id="4_Buat_tampilan_yang_responsif_dan_mobile-friendly"><strong>4. Buat tampilan yang responsif dan mobile-friendly</strong></span></h3>
+<p><span style="font-weight: 400;">Pastikan desain </span><i><span style="font-weight: 400;">website </span></i><span style="font-weight: 400;">kamu responsif dan dapat diakses melalui berbagai perangkat, baik itu </span><i><span style="font-weight: 400;">smartphone </span></i><span style="font-weight: 400;">maupun tablet. Hal ini akan menciptakan pengalaman yang maksimal.</span></p>
+<p><strong>Baca Juga: <a href="https://www.dewaweb.com/blog/kriteria-desain-web-seo-friendly/" title="Kriteria Desain Web yang SEO Friendly">Kriteria Desain Web yang SEO Friendly</a></strong></p>
+<h2><span id="Yuk_Mulai_Desain_Websitemu_Sendiri"><strong>Yuk Mulai Desain Websitemu Sendiri!</strong></span></h2>
+<p><span style="font-weight: 400;">Sekarang kamu sudah tahu apa saja contoh desain </span><i><span style="font-weight: 400;">web </span></i><span style="font-weight: 400;">sederhana, selanjutnya jangan lupa terapkan tips-tips yang telah dibahas di atas. Kamu dapat menciptakan desain </span><i><span style="font-weight: 400;">web </span></i><span style="font-weight: 400;">sederhana yang menarik dan sesuai dengan kebutuhanmu.</span></p>
+<p><span style="font-weight: 400;">Jangan lupa terus mengembangkan pengetahuan dan keterampilanmu dengan membaca artikel informatif lainnya di </span><a href="https://www.dewaweb.com/blog/" title="blog Dewaweb,"><span style="font-weight: 400;">blog Dewaweb,</span></a><span style="font-weight: 400;"> ikut </span><a href="https://www.dewaweb.com/affiliate-program" title="program afiliasi"><span style="font-weight: 400;">program afiliasi</span></a><span style="font-weight: 400;"> untuk memperluas jangkauanmu, serta daftar webinar gratis di </span><a href="https://www.dewatalks.com/" title="Dewatalks"><span style="font-weight: 400;">Dewatalks</span></a><span style="font-weight: 400;"> untuk mendapatkan wawasan lebih dalam tentang desain web dan topik terkait lainnya.&nbsp; Yuk, mulai </span><a href="https://www.dewaweb.com/blog/cara-membuat-website/" title="membuat website"><span style="font-weight: 400;">membuat </span><i><span style="font-weight: 400;">website</span></i></a> <span style="font-weight: 400;">kamu sekarang.</span></p>
+</div>
+</article>
+<div class="author-bio">
+<div class="bio">
+<img alt="Asset Blog Dewaweb" height="90" width="90" title="Asset Blog Dewaweb" data-src="https://secure.gravatar.com/avatar/6448a54679d42bc3bcd38e7993b4e605?s=90&amp;d=mm&amp;r=g" class="avatar avatar-90 photo lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="> <div class="page-title h2">Aorinka Anendya</div>
+<p class="bio-info">Gemar menulis tentang teknologi, bisnis, digital marketing, dan banyak topik lain. Sedang belajar untuk terus membuat tulisan berkualitas.</p>
+</div>
+</div> <div id="dewaweb-single-banner">
+<a href="https://www.dewatalks.com/" target="_blank" title="Link Blog Dewaweb">
+<img alt="Dewatalks" title="Dewatalks" width="100" height="40" data-src="https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2021/07/dewatalks-webinar-learnfromtheexperts-speakers-1500x500px.jpg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+</a>
+</div>
+<div id="lfc_comments" class="comments-area" align="center">
+</div>
+</div>
+</main>
+<aside class="aside-sidebar sidebar" aria-label="Blog Sidebar">
+<div class="aside-sticky-container">
+<section id="block-23" class="widget-odd widget-last widget-first widget-1 widget widget_block widget_media_image">
+<figure class="wp-block-image size-large"><a href="https://www.dewaweb.com/promo/ramadan?utm_source=blog-site&amp;utm_medium=banner-vertical&amp;utm_campaign=berkahdewa" title="Link Blog Dewaweb"><img decoding="async" alt="Asset Blog Dewaweb" title="Asset Blog Dewaweb" width="100" height="40" data-src="https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2024/03/dewaweb-2024-berkahdewa-300x1120px-1.jpg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="></a></figure>
+</section> </div>
+</aside>
+</div>
+<footer id="colophon" class="site-footer has-footer-columns">
+<div class="footer-widget-area footer-columns flex-grid cols-3 container">
+<div class="flex-box footer-column footer-column-1">
+<section id="custom_html-21" class="widget_text widget-odd widget-last widget-first widget-1 widget widget_custom_html"><div class="textwidget custom-html-widget"><section id="dwFooter" class="o-dwFooter"><div class="m-dwFooter__mainContainer">
+<div class="m-dwFooter__container -first">
+<div class="a-dwFooter__logo"></div>
+<div class="m-dwFooter__badges">
+<div class="a-dwCloudHosting__badgesContainer -iso"> <a href="https://www.bsigroup.com/en-GB/our-services/certification/certificate-and-client-directory/search-results/?searchkey=licence%3D670277&amp;licencenumber=IS%20670277" target="_blank" rel="nofollow noopener" title="Link Blog Dewaweb"><img alt="Dewaweb is ISO 27001 Certified" width="92" height="81" border="0" title="Dewaweb is ISO 27001 Certified" data-src="https://b2296498.smushcdn.com/2296498/wp-content/uploads/2018/05/logo-iso-27001-dewaweb.png?lossy=1&strip=1&webp=1" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="></a>
+</div>
+<div class="a-dwFooter__badgeContainer -norton" style="padding: 1em 0em;"> <a href="javascript:void(0)" onclick="window.open('https://seal.digicert.com/seals/popup/?tag=II1ehr0i&amp;url=www.dewaweb.com&amp;lang=en','VRSN_Splash','location=yes,status=yes,resizable=yes,scrollbars=yes,width=560,height=500')" target="_blank" rel="nofollow noopener noreferrer" title="Link Blog Dewaweb"> <img src="data:image/webp;base64,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" border="0" alt="Asset Blog Dewaweb" title="Asset Blog Dewaweb" width="100" height="40"> </a> </div>
+<div class="a-dwCloudHosting__badgesContainer -dmca"> <a class="dmca-badge" title="DMCA.com Protection Status" rel="nofollow noopener" href="https://www.dmca.com/Protection/Status.aspx?ID=e08decd7-f498-4c40-9838-9193b1b097c8&amp;refurl=https://www.dewaweb.com/" target="_blank"> <img alt="DMCA.com Protection Status" title="DMCA.com Protection Status" width="100" height="40" data-src="https://b2296498.smushcdn.com/2296498/wp-content/uploads/2018/05/dmca-logo-dewaweb.png?lossy=1&strip=1&webp=1" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="> </a>
+</div>
+</div>
+</div>
+<div class="m-dwFooter__container -second">
+<div class="m-dwFooter__addressDetails"><p> PT DEWAWEB<br> AKR Tower &ndash; 16th Floor<br> Jl. Panjang no. 5, Kebon Jeruk<br> Jakarta 11530<br><br></p></div>
+<div class="m-dwFooter__contactDetails"><p> Email: <a href="https://www.dewaweb.com/submitticket.php?step=2&amp;deptid=2;" title="Link Blog Dewaweb"><img style="margin-top:-0.4em; filter:brightness(500%);" alt="email" title="email" width="100" height="40" data-src="https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2018/06/img-sales-1.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="></a><br> Phone: <a href="tel:+622122124702" target="_blank" rel="nofollow noopener noreferrer" title="(021) 2212-4702">(021) 2212-4702</a><br> Mobile: <a href="tel:+6281318884702" target="_blank" rel="nofollow noopener noreferrer" title="0821-8000-4702">0821-8000-4702</a></p></div>
+<div class="m-dwFooter__socialIcons"><ul class="social-icons">
+<li><a href="https://www.facebook.com/dewaweb" target="_blank" rel="noopener" title="Link Blog Dewaweb"><i class="fa fa-facebook"></i></a></li>
+<li><a href="https://www.instagram.com/dewaweb" target="_blank" rel="noopener" title="Link Blog Dewaweb"><i class="fa fa-instagram"></i></a></li>
+<li><a href="https://www.linkedin.com/company/dewaweb" target="_blank" rel="noopener" title="Link Blog Dewaweb"><i class="fa fa-linkedin"></i></a></li>
+<li><a href="https://www.twitter.com/Dewaweb" target="_blank" rel="noopener" title="Link Blog Dewaweb"><i class="fa fa-twitter"></i></a></li>
+<li><a href="https://www.youtube.com/user/DewawebChannel" target="_blank" rel="noopener" title="Link Blog Dewaweb"><i class="fa fa-youtube"></i></a></li>
+</ul></div>
+</div>
+<div class="m-dwFooter__container -third">
+<div class="m-dwFooter__links -company">
+<div onclick="companyDropdown()" class="a-dwFooter__linkCategory">COMPANY<i id="companyChevronRotate" class="fa fa-chevron-down"></i>
+</div>
+<div id="js-company__dropdownFunction" class="js-dropdownContent dropdown-content -company"> <a href="https://www.dewaweb.com/about-us" title="About Us">About Us</a> <a href="https://www.dewaweb.com/media-kit" title="Media Kit">Media Kit</a> <a href="https://www.dewaweb.com/blog/" title="Blog">Blog</a> <a href="https://www.dewaweb.com/jobs" title="Careers">Careers</a>
+</div>
+</div>
+<div class="m-dwFooter__links -layanan">
+<div onclick="layananDropdown()" class="a-dwFooter__linkCategory">LAYANAN<i id="layananChevronRotate" class="fa fa-chevron-down"></i>
+</div>
+<div id="js-layanan__dropdownFunction" class="js-dropdownContent dropdown-content -layanan"> <a href="https://www.dewaweb.com/domain" title="Domain Murah">Domain Murah</a><a href="https://www.dewaweb.com/hosting" title="Cloud Hosting">Cloud Hosting</a> <a href="https://www.dewaweb.com/cloud-vps" title="Cloud Server (VPS)">Cloud Server (VPS)</a> <a href="https://www.dewacloud.com/" target="_blank" rel="nofollow noopener noreferrer" title="Dewacloud PaaS">Dewacloud PaaS</a> <a href="https://dewaguard.com" target="_blank" rel="nofollow noopener noreferrer" title="Dewaguard Cyber Security">Dewaguard Cyber Security</a> <a href="https://www.dewaweb.com/backup" title="Cloud Backup">Cloud Backup</a> <a href="https://www.dewaweb.com/ssl-certificates" title="SSL Certificates">SSL Certificates</a> <a href="https://www.dewaweb.com/promo/server-cbt/?utm_source=blog&amp;utm_medium=navbar" title="Server CBT (E-Learning)">Server CBT (E-Learning)</a>
+</div>
+</div>
+</div>
+<div class="m-dwFooter__container -fourth">
+<div class="m-dwFooter__links -reseller">
+<div onclick="resellerDropdown()" class="a-dwFooter__linkCategory">RESELLER<i id="resellerChevronRotate" class="fa fa-chevron-down"></i>
+</div>
+<div id="js-reseller__dropdownFunction" class="js-dropdownContent dropdown-content -reseller"> <a href="https://www.dewaweb.com/affiliate-program" title="Affiliate Program">Affiliate Program</a> <a href="https://www.dewaweb.com/partner-program" title="VIP Partner Program">VIP Partner Program</a>
+</div>
+</div>
+<div class="m-dwFooter__links -support">
+<div onclick="supportDropdown()" class="a-dwFooter__linkCategory">SUPPORT<i id="supportChevronRotate" class="fa fa-chevron-down"></i>
+</div>
+<div id="js-support__dropdownFunction" class="js-dropdownContent dropdown-content -support"> <a href="https://www.dewaweb.com/serverstatus.php" title="Status Network">Status Network</a> <a href="https://www.dewaweb.com/submitticket.php?step=2&amp;deptid=1" title="Buka Tiket Support">Buka Tiket Support</a>
+</div>
+</div>
+<div class="m-dwFooter__links -others">
+<div onclick="othersDropdown()" class="a-dwFooter__linkCategory">OTHERS<i id="othersChevronRotate" class="fa fa-chevron-down"></i>
+</div>
+<div id="js-others__dropdownFunction" class="js-dropdownContent dropdown-content -others"> <a href="https://promo.dewaweb.com/?utm_source=dewawebcom_blog&amp;utm_medium=footer" title="Promo Dewaweb">Promo Dewaweb</a> <a href="https://www.dewatalks.com/" title="Dewatalks">Dewatalks</a> <a href="https://www.dewaweb.com/free-hosting-non-profit" title="Hosting Gratis untuk Non-Profit">Hosting Gratis untuk Non-Profit</a>
+</div>
+</div>
+</div>
+</div> </section></div></section> </div>
+</div>
+<div class="footer-bottom-data">
+<div class="container">
+<ul class="footer-info">
+<li class="footer-copyright">
+Copyright &copy; 2024 Dewaweb. All Rights Reserved.
+</li>
+<li class="footer-links">
+<ul id="footer-nav" class="footer-nav">
+<li id="menu-item-30027" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-30027"><a href="https://www.dewaweb.com/syarat-dan-ketentuan" title="Terms of Service">Terms of Service</a></li>
+<li id="menu-item-30028" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-30028"><a href="https://www.dewaweb.com/service-level-agreement" title="Service Level Agreement">Service Level Agreement</a></li>
+</ul> </li>
+</ul>
+</div>
+</div>
+</footer>
+<a href class="goto-top backtotop" target="_blank" rel="nofollow noopener noreferrer" title="Link Blog Dewaweb"><i class="icon-up-open"></i></a>
+<style>
+            .searchwp-live-search-results {
+                opacity: 0;
+                transition: opacity .25s ease-in-out;
+                -moz-transition: opacity .25s ease-in-out;
+                -webkit-transition: opacity .25s ease-in-out;
+                height: 0;
+                overflow: hidden;
+                z-index: 9999995; /* Exceed SearchWP Modal Search Form overlay. */
+                position: absolute;
+                display: none;
+            }
+
+            .searchwp-live-search-results-showing {
+                display: block;
+                opacity: 1;
+                height: auto;
+                overflow: auto;
+            }
+
+            .searchwp-live-search-no-results {
+                padding: 3em 2em 0;
+                text-align: center;
+            }
+
+            .searchwp-live-search-no-min-chars:after {
+                content: "Continue typing";
+                display: block;
+                text-align: center;
+                padding: 2em 2em 0;
+            }
+        </style>
+<script>
+            var _SEARCHWP_LIVE_AJAX_SEARCH_BLOCKS = true;
+            var _SEARCHWP_LIVE_AJAX_SEARCH_ENGINE = 'default';
+            var _SEARCHWP_LIVE_AJAX_SEARCH_CONFIG = 'default';
+        </script>
+<style id="core-block-supports-inline-css">
+/**
+ * Core styles: block-supports
+ */
+
+</style>
+<link rel="stylesheet" id="otter-widgets-css" href="https://dwblog-ecdf.kxcdn.com/wp-content/uploads/themeisle-gutenberg/widgets-1685524167.css?ver=2.6.4" media="all">
+<script src="https://dwblog-ecdf.kxcdn.com/wp-content/themes/ruki/footer.js?ver=1.0.0" id="dw-footer-js"></script>
+<script src="https://dwblog-ecdf.kxcdn.com/wp-includes/js/comment-reply.js?ver=6.4.3" id="comment-reply-js" async data-wp-strategy="async"></script>
+<script id="swp-live-search-client-js-extra">
+var searchwp_live_search_params = [];
+searchwp_live_search_params = {"ajaxurl":"https:\/\/www.dewaweb.com\/blog\/wp-admin\/admin-ajax.php","origin_id":50226,"config":{"default":{"engine":"default","input":{"delay":300,"min_chars":3},"results":{"position":"bottom","width":"auto","offset":{"x":0,"y":5}},"spinner":{"lines":12,"length":8,"width":3,"radius":8,"scale":1,"corners":1,"color":"#424242","fadeColor":"transparent","speed":1,"rotate":0,"animation":"searchwp-spinner-line-fade-quick","direction":1,"zIndex":2000000000,"className":"spinner","top":"50%","left":"50%","shadow":"0 0 1px transparent","position":"absolute"}}},"msg_no_config_found":"No valid SearchWP Live Search configuration found!","aria_instructions":"When autocomplete results are available use up and down arrows to review and enter to go to the desired page. Touch device users, explore by touch or with swipe gestures."};;
+</script>
+<script src="https://dwblog-ecdf.kxcdn.com/wp-content/plugins/searchwp-live-ajax-search/assets/javascript/dist/script.js?ver=1.7.6" id="swp-live-search-client-js"></script>
+<style type="text/css">
+.dwquote {
+  background: #f9f9f9;
+  border-left: 10px solid #52C6DF;
+  margin: 1.5em 20px;
+  padding: 1em 1em;
+  quotes: "\201C""\201D""\2018""\2019";
+}
+.dwquote p {
+  display: inline;
+}
+.blog-btn {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-size: 20px;
+	border: 0;
+	background-color: #57bbd9;
+	transition-timing-function: ease-in-out;
+	transition-property: box-shadow;
+    transition-duration: 150ms;
+    :hover {
+    box-shadow: 0 2px 2px rgb(39 44 52 / 12%);
+}
+}
+.blog-table {
+	max-width: 100%;
+	min-width: 200px;
+	font-size: 14px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.note-center {
+	text-align: center;
+}
+</style>
+<script type="text/javascript">function loadLFCComments() {(function(d, s, id) {
+                        var js, fjs = d.getElementsByTagName(s)[0];
+                        if (d.getElementById(id)) return;
+                        js = d.createElement(s); js.id = id;
+                        js.src = '//connect.facebook.net/en_ID/sdk.js#xfbml=1&version=v17.0&appId=846697586100328';
+                        fjs.parentNode.insertBefore(js, fjs);
+                    }(document, 'script', 'facebook-jssdk'));
+                    }window.onscroll = function () {
+                        var rect = document.getElementById('lfc_comments').getBoundingClientRect();
+                        if (rect.top < window.innerHeight) {
+                            var lfc_div = document.getElementById('lfc_comments');
+                            lfc_div.innerHTML = '<div id="fb-root"><div class="fb-comments" data-width="100%" data-href="https://www.dewaweb.com/blog/contoh-desain-website/" data-numposts="10" data-colorscheme="light" data-order-by="time">';
+                            loadLFCComments();
+                            window.onscroll = null;
+                        } 
+                    }</script>
+<script data-no-optimize="1">!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function"==typeof define&&define.amd?define(e):(t="undefined"!=typeof globalThis?globalThis:t||self).LazyLoad=e()}(this,function(){"use strict";function e(){return(e=Object.assign||function(t){for(var e=1;e<arguments.length;e++){var n,a=arguments[e];for(n in a)Object.prototype.hasOwnProperty.call(a,n)&&(t[n]=a[n])}return t}).apply(this,arguments)}function i(t){return e({},it,t)}function o(t,e){var n,a="LazyLoad::Initialized",i=new t(e);try{n=new CustomEvent(a,{detail:{instance:i}})}catch(t){(n=document.createEvent("CustomEvent")).initCustomEvent(a,!1,!1,{instance:i})}window.dispatchEvent(n)}function l(t,e){return t.getAttribute(gt+e)}function c(t){return l(t,bt)}function s(t,e){return function(t,e,n){e=gt+e;null!==n?t.setAttribute(e,n):t.removeAttribute(e)}(t,bt,e)}function r(t){return s(t,null),0}function u(t){return null===c(t)}function d(t){return c(t)===vt}function f(t,e,n,a){t&&(void 0===a?void 0===n?t(e):t(e,n):t(e,n,a))}function _(t,e){nt?t.classList.add(e):t.className+=(t.className?" ":"")+e}function v(t,e){nt?t.classList.remove(e):t.className=t.className.replace(new RegExp("(^|\\s+)"+e+"(\\s+|$)")," ").replace(/^\s+/,"").replace(/\s+$/,"")}function g(t){return t.llTempImage}function b(t,e){!e||(e=e._observer)&&e.unobserve(t)}function p(t,e){t&&(t.loadingCount+=e)}function h(t,e){t&&(t.toLoadCount=e)}function n(t){for(var e,n=[],a=0;e=t.children[a];a+=1)"SOURCE"===e.tagName&&n.push(e);return n}function m(t,e){(t=t.parentNode)&&"PICTURE"===t.tagName&&n(t).forEach(e)}function a(t,e){n(t).forEach(e)}function E(t){return!!t[st]}function I(t){return t[st]}function y(t){return delete t[st]}function A(e,t){var n;E(e)||(n={},t.forEach(function(t){n[t]=e.getAttribute(t)}),e[st]=n)}function k(a,t){var i;E(a)&&(i=I(a),t.forEach(function(t){var e,n;e=a,(t=i[n=t])?e.setAttribute(n,t):e.removeAttribute(n)}))}function L(t,e,n){_(t,e.class_loading),s(t,ut),n&&(p(n,1),f(e.callback_loading,t,n))}function w(t,e,n){n&&t.setAttribute(e,n)}function x(t,e){w(t,ct,l(t,e.data_sizes)),w(t,rt,l(t,e.data_srcset)),w(t,ot,l(t,e.data_src))}function O(t,e,n){var a=l(t,e.data_bg_multi),i=l(t,e.data_bg_multi_hidpi);(a=at&&i?i:a)&&(t.style.backgroundImage=a,n=n,_(t=t,(e=e).class_applied),s(t,ft),n&&(e.unobserve_completed&&b(t,e),f(e.callback_applied,t,n)))}function N(t,e){!e||0<e.loadingCount||0<e.toLoadCount||f(t.callback_finish,e)}function C(t,e,n){t.addEventListener(e,n),t.llEvLisnrs[e]=n}function M(t){return!!t.llEvLisnrs}function z(t){if(M(t)){var e,n,a=t.llEvLisnrs;for(e in a){var i=a[e];n=e,i=i,t.removeEventListener(n,i)}delete t.llEvLisnrs}}function R(t,e,n){var a;delete t.llTempImage,p(n,-1),(a=n)&&--a.toLoadCount,v(t,e.class_loading),e.unobserve_completed&&b(t,n)}function T(o,r,c){var l=g(o)||o;M(l)||function(t,e,n){M(t)||(t.llEvLisnrs={});var a="VIDEO"===t.tagName?"loadeddata":"load";C(t,a,e),C(t,"error",n)}(l,function(t){var e,n,a,i;n=r,a=c,i=d(e=o),R(e,n,a),_(e,n.class_loaded),s(e,dt),f(n.callback_loaded,e,a),i||N(n,a),z(l)},function(t){var e,n,a,i;n=r,a=c,i=d(e=o),R(e,n,a),_(e,n.class_error),s(e,_t),f(n.callback_error,e,a),i||N(n,a),z(l)})}function G(t,e,n){var a,i,o,r,c;t.llTempImage=document.createElement("IMG"),T(t,e,n),E(c=t)||(c[st]={backgroundImage:c.style.backgroundImage}),o=n,r=l(a=t,(i=e).data_bg),c=l(a,i.data_bg_hidpi),(r=at&&c?c:r)&&(a.style.backgroundImage='url("'.concat(r,'")'),g(a).setAttribute(ot,r),L(a,i,o)),O(t,e,n)}function D(t,e,n){var a;T(t,e,n),a=e,e=n,(t=It[(n=t).tagName])&&(t(n,a),L(n,a,e))}function V(t,e,n){var a;a=t,(-1<yt.indexOf(a.tagName)?D:G)(t,e,n)}function F(t,e,n){var a;t.setAttribute("loading","lazy"),T(t,e,n),a=e,(e=It[(n=t).tagName])&&e(n,a),s(t,vt)}function j(t){t.removeAttribute(ot),t.removeAttribute(rt),t.removeAttribute(ct)}function P(t){m(t,function(t){k(t,Et)}),k(t,Et)}function S(t){var e;(e=At[t.tagName])?e(t):E(e=t)&&(t=I(e),e.style.backgroundImage=t.backgroundImage)}function U(t,e){var n;S(t),n=e,u(e=t)||d(e)||(v(e,n.class_entered),v(e,n.class_exited),v(e,n.class_applied),v(e,n.class_loading),v(e,n.class_loaded),v(e,n.class_error)),r(t),y(t)}function $(t,e,n,a){var i;n.cancel_on_exit&&(c(t)!==ut||"IMG"===t.tagName&&(z(t),m(i=t,function(t){j(t)}),j(i),P(t),v(t,n.class_loading),p(a,-1),r(t),f(n.callback_cancel,t,e,a)))}function q(t,e,n,a){var i,o,r=(o=t,0<=pt.indexOf(c(o)));s(t,"entered"),_(t,n.class_entered),v(t,n.class_exited),i=t,o=a,n.unobserve_entered&&b(i,o),f(n.callback_enter,t,e,a),r||V(t,n,a)}function H(t){return t.use_native&&"loading"in HTMLImageElement.prototype}function B(t,i,o){t.forEach(function(t){return(a=t).isIntersecting||0<a.intersectionRatio?q(t.target,t,i,o):(e=t.target,n=t,a=i,t=o,void(u(e)||(_(e,a.class_exited),$(e,n,a,t),f(a.callback_exit,e,n,t))));var e,n,a})}function J(e,n){var t;et&&!H(e)&&(n._observer=new IntersectionObserver(function(t){B(t,e,n)},{root:(t=e).container===document?null:t.container,rootMargin:t.thresholds||t.threshold+"px"}))}function K(t){return Array.prototype.slice.call(t)}function Q(t){return t.container.querySelectorAll(t.elements_selector)}function W(t){return c(t)===_t}function X(t,e){return e=t||Q(e),K(e).filter(u)}function Y(e,t){var n;(n=Q(e),K(n).filter(W)).forEach(function(t){v(t,e.class_error),r(t)}),t.update()}function t(t,e){var n,a,t=i(t);this._settings=t,this.loadingCount=0,J(t,this),n=t,a=this,Z&&window.addEventListener("online",function(){Y(n,a)}),this.update(e)}var Z="undefined"!=typeof window,tt=Z&&!("onscroll"in window)||"undefined"!=typeof navigator&&/(gle|ing|ro)bot|crawl|spider/i.test(navigator.userAgent),et=Z&&"IntersectionObserver"in window,nt=Z&&"classList"in document.createElement("p"),at=Z&&1<window.devicePixelRatio,it={elements_selector:".lazy",container:tt||Z?document:null,threshold:300,thresholds:null,data_src:"src",data_srcset:"srcset",data_sizes:"sizes",data_bg:"bg",data_bg_hidpi:"bg-hidpi",data_bg_multi:"bg-multi",data_bg_multi_hidpi:"bg-multi-hidpi",data_poster:"poster",class_applied:"applied",class_loading:"litespeed-loading",class_loaded:"litespeed-loaded",class_error:"error",class_entered:"entered",class_exited:"exited",unobserve_completed:!0,unobserve_entered:!1,cancel_on_exit:!0,callback_enter:null,callback_exit:null,callback_applied:null,callback_loading:null,callback_loaded:null,callback_error:null,callback_finish:null,callback_cancel:null,use_native:!1},ot="src",rt="srcset",ct="sizes",lt="poster",st="llOriginalAttrs",ut="loading",dt="loaded",ft="applied",_t="error",vt="native",gt="data-",bt="ll-status",pt=[ut,dt,ft,_t],ht=[ot],mt=[ot,lt],Et=[ot,rt,ct],It={IMG:function(t,e){m(t,function(t){A(t,Et),x(t,e)}),A(t,Et),x(t,e)},IFRAME:function(t,e){A(t,ht),w(t,ot,l(t,e.data_src))},VIDEO:function(t,e){a(t,function(t){A(t,ht),w(t,ot,l(t,e.data_src))}),A(t,mt),w(t,lt,l(t,e.data_poster)),w(t,ot,l(t,e.data_src)),t.load()}},yt=["IMG","IFRAME","VIDEO"],At={IMG:P,IFRAME:function(t){k(t,ht)},VIDEO:function(t){a(t,function(t){k(t,ht)}),k(t,mt),t.load()}},kt=["IMG","IFRAME","VIDEO"];return t.prototype={update:function(t){var e,n,a,i=this._settings,o=X(t,i);{if(h(this,o.length),!tt&&et)return H(i)?(e=i,n=this,o.forEach(function(t){-1!==kt.indexOf(t.tagName)&&F(t,e,n)}),void h(n,0)):(t=this._observer,i=o,t.disconnect(),a=t,void i.forEach(function(t){a.observe(t)}));this.loadAll(o)}},destroy:function(){this._observer&&this._observer.disconnect(),Q(this._settings).forEach(function(t){y(t)}),delete this._observer,delete this._settings,delete this.loadingCount,delete this.toLoadCount},loadAll:function(t){var e=this,n=this._settings;X(t,n).forEach(function(t){b(t,e),V(t,n,e)})},restoreAll:function(){var e=this._settings;Q(e).forEach(function(t){U(t,e)})}},t.load=function(t,e){e=i(e);V(t,e)},t.resetStatus=function(t){r(t)},Z&&function(t,e){if(e)if(e.length)for(var n,a=0;n=e[a];a+=1)o(t,n);else o(t,e)}(t,window.lazyLoadOptions),t});!function(e,t){"use strict";function a(){t.body.classList.add("litespeed_lazyloaded")}function n(){console.log("[LiteSpeed] Start Lazy Load Images"),d=new LazyLoad({elements_selector:"[data-lazyloaded]",callback_finish:a}),o=function(){d.update()},e.MutationObserver&&new MutationObserver(o).observe(t.documentElement,{childList:!0,subtree:!0,attributes:!0})}var d,o;e.addEventListener?e.addEventListener("load",n,!1):e.attachEvent("onload",n)}(window,document);</script></body>
+</html>

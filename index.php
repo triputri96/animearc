@@ -26,7 +26,7 @@
         </div>
       </div>
       <div class="col-6 d-flex justify-content-center">
-        <img src="assets/imgs/hero-image.png" alt="" height="500">
+        <img src="assets/imgs/hero-image.png" alt="Frieren" height="500">
       </div>
     </div>
   </section>
@@ -97,15 +97,15 @@
     </div>
     <div class="img-selection-container d-flex justify-content-between">
       <div class="">
-        <img src="assets/imgs/frieren.png" alt="" width="110" height="110" class="fit-cover chara-selection"
+        <img src="assets/imgs/frieren.png" alt="Frieren" width="110" height="110" class="fit-cover chara-selection"
           onclick="selectImage(0)">
       </div>
       <div class="">
-        <img src="assets/imgs/fern.png" alt="" width="110" height="110" class="fit-cover chara-selection"
+        <img src="assets/imgs/fern.png" alt="Fern" width="110" height="110" class="fit-cover chara-selection"
           onclick="selectImage(1)">
       </div>
       <div class="">
-        <img src="assets/imgs/stark.png" alt="" width="110" height="110" class="fit-cover chara-selection"
+        <img src="assets/imgs/stark.png" alt="Stark" width="110" height="110" class="fit-cover chara-selection"
           onclick="selectImage(2)">
       </div>
     </div>

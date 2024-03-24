@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<!-- TODO: htaccess belum jalan, kalai url contains index.php mau aku hilangin ini tulisan biar jadi / aja -->
 <head>
   <title>Login | Anime Arcadia</title>
   <meta charset="UTF-8" />
@@ -42,7 +41,7 @@
     <div class="container-login100">
       <div class="wrap-login100">
         <div class="login100-pic js-tilt" data-tilt>
-          <img src="assets/imgs/frieren-chibi.png" alt="IMG" id="logo" data-tilt data-tilt-glare="true"
+          <img src="assets/imgs/frieren-chibi.png" alt="Frieren Chibi" id="logo" data-tilt data-tilt-glare="true"
             data-tilt-max-glare="0.5" data-tilt-speed="400" data-tilt-scale="1.1" data-tilt-perspective="500"
             data-tilt-max="15" data-tilt-startX="0" data-tilt-startY="0" />
         </div>
@@ -50,8 +49,8 @@
         <form class="login100-form validate-form" action="services/cek-login.php" method="post">
           <div class="error-container">
             <?php
-                        if (isset($_GET['pesan'])) {
-                        ?>
+              if (isset($_GET['pesan'])) {
+            ?>
             <div class="alert alert-warning alert-dismissible fade show" role="alert">
               <strong>Login Gagal </strong><?php echo $_GET['pesan']; ?>
               <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
@@ -62,7 +61,7 @@
           <span class="login100-form-title">Login</span>
 
           <div class="wrap-input100 validate-input">
-            <input class="input100" type="text" name="username" id="username" placeholder="username" />
+            <input <?php if(isset($_SESSION['failed_login']) && $_SESSION['failed_login'] % 3 == 0){echo 'disabled';}?> class="input100" type="text" name="username" id="username" placeholder="username" />
             <span class="focus-input100"></span>
             <span class="symbol-input100">
               <i class="fa fa-envelope" aria-hidden="true"></i>
@@ -70,15 +69,15 @@
           </div>
 
           <div class="wrap-input100 validate-input">
-            <input class="input100" type="password" name="pass" id="pass" placeholder="Password" />
+            <input <?php if(isset($_SESSION['failed_login']) && $_SESSION['failed_login'] % 3 == 0){echo 'disabled';}?> class="input100" type="password" name="pass" id="pass" placeholder="Password" />
             <span class="focus-input100"></span>
             <span class="symbol-input100">
               <i class="fa fa-lock" aria-hidden="true"></i>
             </span>
           </div>
           <div class="container-login100-form-btn mb-2" style="justify-content: space-between">
-            <button type="submit" name="btnLogin" onclick="handleFailedLogin()" class="login100-form-btn <?php if(isset($_SESSION['failed_login']) && $_SESSION['failed_login'] % 3 == 0){echo 'disabled';}?>">Login</button>
-            <button type="submit" name="btnBatal" class="login100-form-btn <?php if(isset($_SESSION['failed_login']) && $_SESSION['failed_login'] % 3 == 0){echo 'disabled';}?>">Batal</button>
+            <button <?php if(isset($_SESSION['failed_login']) && $_SESSION['failed_login'] % 3 == 0){echo 'disabled';}?> type="submit" name="btnLogin" onclick="handleFailedLogin()" class="login100-form-btn">Login</button>
+            <a href="/" <?php if(isset($_SESSION['failed_login']) && $_SESSION['failed_login'] % 3 == 0){echo 'disabled';}?> type="submit" name="btnBatal" class="login100-form-btn">Batal</a>
           </div>
           <div id="expiredContent" class="text-center <?php echo isset($_SESSION['failed_login']) && $_SESSION['failed_login'] % 3 == 0 ? 'd-block' : 'd-none'; ?>">
             <p class="txt2">

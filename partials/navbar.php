@@ -23,7 +23,7 @@
           </ul>
         </div>
       </li>
-      <li class="col-4 "><a href="#aboutUs" class="nav-link">About Us</a></li>
+      <li id="aboutUsLink" class="col-4"><a href="#aboutUs" class="<?php if(!isset($_SESSION['username'])){ echo 'disabled'; }?> nav-link">About Us</a></li>
     </ul>
     <div class="col-4 d-flex justify-content-end align-center">
       <div class="nav-links">
